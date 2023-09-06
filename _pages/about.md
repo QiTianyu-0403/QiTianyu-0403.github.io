@@ -69,13 +69,15 @@ Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learni
 
 ## 📁 Patents
 - [An edge intelligent optimization method and device](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(issued), Yufeng Zhan, Jiasheng Wang, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia, 2023.01.24, CN115357402B
-- A cloud-edge-device collaborative federated learning intelligent optimization method and device(filed), Yufeng Zhan, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia
+- [A cloud-edge-device collaborative federated learning intelligent optimization method and device](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(filed), Yufeng Zhan, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2022.10* Excellent student of Beijing Institute of Technology.
-- *2022.10* First prize of China Computer Game Competition. (Top 1%)
-- *2022.09* The special scholarship of Beijing Institute of Technology. 
+- *2023.06* Third Prize of China Computer Game Competition, 2023.
+- *2023.06* Third Prize in the National Mathorcup Mathematical Modeling Competition, 2023.
+- *2022.10* Excellent student of Beijing Institute of Technology, 2022.
+- *2022.10* First prize of China Computer Game Competition,2022. (Top 1%)
+- *2022.09* The special scholarship of Beijing Institute of Technology, 2022. 
 - *2021.06* Outstanding graduates of China University of Geosciences, Wuhan. (Top 1%)
 - *2020.10* Principle's scholarship of China University of Geosciences, Wuhan. (Top 3%)
 
