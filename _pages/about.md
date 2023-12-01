@@ -43,9 +43,49 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2023</div><img src='images/fig.002.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**[Arena: A Learning-based Aggregation Framework for Hierarchical Federated Learning](https://arxiv.org/abs/2308.10298)**
+
+IEEE Transactions on Comupters
+
+<!-- |18-07-2023|Slide| -->
+(coming soon)
+---
+
+**Tianyu Qi**, Yufeng Zhan, Peng Li, Jingcai Guo, Yuanqing Xia
+
+<!-- - We propose an intelligent HFL synchronization scheme, that decides the aggregation frequencies of cloud and edge based on DRL. -->
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Tomtit: Hierarchical Federated Fine-Tuning of Giant Models based on Autonomous Synchronization](www.tymiracle.top)**
+
+2023 IEEE International Conference on Computer Communications
+
+|20-05-2024|Slide(coming soon)|
+
+---
+
+**Tianyu Qi**, Yufeng Zhan, Peng Li, Yuanqing Xia
+
+<!-- - We propose an intelligent HFL synchronization scheme, that decides the aggregation frequencies of cloud and edge based on DRL. -->
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2023</div><img src='images/fig.002.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **[Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learning](https://ieeexplore.ieee.org/abstract/document/10272466)**
 
-|2023 43rd IEEE International Conference on Distributed Computing Systems|11-10-2023|Slide|
+2023 43rd IEEE International Conference on Distributed Computing Systems
+
+|18-07-2023|Slide|
 
 ---
 
@@ -63,6 +103,8 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 
 2022 41st Chinese Control Conference (CCC)
 
+|25-07-2022|Slide|
+
 ---
 
 **Tianyu Qi**, Hongwei Zhang, Yufeng Zhan, Yuanqing Xia
@@ -77,6 +119,7 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2023.11* Society scholarship of Bank of China, 2023.
 - *2023.08* Third Prize of China Computer Game Competition, 2023.
 - *2023.06* Third Prize in the National Mathorcup Mathematical Modeling Competition, 2023.
 - *2022.10* Excellent student of Beijing Institute of Technology, 2022.
