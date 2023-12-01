@@ -40,26 +40,23 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 # 📝 Publications 
 ## 📜 Articles
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2023</div><img src='images/fig.002.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TC</div><img src='images/fig.002.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Arena: A Learning-based Aggregation Framework for Hierarchical Federated Learning](https://arxiv.org/abs/2308.10298)**
 
 IEEE Transactions on Comupters
 
-<!-- |18-07-2023|Slide| -->
 (coming soon)
+
 ---
 
 **Tianyu Qi**, Yufeng Zhan, Peng Li, Jingcai Guo, Yuanqing Xia
-
-<!-- - We propose an intelligent HFL synchronization scheme, that decides the aggregation frequencies of cloud and edge based on DRL. -->
-
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Tomtit: Hierarchical Federated Fine-Tuning of Giant Models based on Autonomous Synchronization](www.tymiracle.top)**
