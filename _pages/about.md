@@ -65,8 +65,6 @@ IEEE Transactions on Comupters
 
 |20-05-2024|Slide(coming soon)|
 
----
-
 **Tianyu Qi**, Yufeng Zhan, Peng Li, Yuanqing Xia
 </div>
 </div>
@@ -81,8 +79,6 @@ IEEE Transactions on Comupters
 
 |18-07-2023|Slide|
 
----
-
 **Tianyu Qi**, Yufeng Zhan, Peng Li, Jingcai Guo, Yuanqing Xia
 </div>
 </div>
@@ -95,8 +91,6 @@ IEEE Transactions on Comupters
 2022 41st Chinese Control Conference (CCC)
 
 25-07-2022|Slide
-
----
 
 **Tianyu Qi**, Hongwei Zhang, Yufeng Zhan, Yuanqing Xia
 </div>
