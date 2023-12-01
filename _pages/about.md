@@ -94,7 +94,7 @@ IEEE Transactions on Comupters
 
 2022 41st Chinese Control Conference (CCC)
 
-|25-07-2022|Slide|
+25-07-2022   |   Slide
 
 ---
 
