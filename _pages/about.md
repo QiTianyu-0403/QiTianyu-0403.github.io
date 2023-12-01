@@ -43,13 +43,15 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2023</div><img src='images/fig.002.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learning
+**[Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learning](https://ieeexplore.ieee.org/abstract/document/10272466)**
 
-2023 43rd IEEE International Conference on Distributed Computing Systems
+|2023 43rd IEEE International Conference on Distributed Computing Systems|11-10-2023|Slide|
+
+---
 
 **Tianyu Qi**, Yufeng Zhan, Peng Li, Jingcai Guo, Yuanqing Xia
 
-- We propose an intelligent HFL synchronization scheme, that decides the aggregation frequencies of cloud and edge based on DRL.
+<!-- - We propose an intelligent HFL synchronization scheme, that decides the aggregation frequencies of cloud and edge based on DRL. -->
 
 </div>
 </div>
@@ -61,9 +63,11 @@ Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learni
 
 2022 41st Chinese Control Conference (CCC)
 
+---
+
 **Tianyu Qi**, Hongwei Zhang, Yufeng Zhan, Yuanqing Xia
 
-- We infer the phase transition of DCSBM using a physics method called Belief Propagation (BP) algorithm.
+<!-- - We infer the phase transition of DCSBM using a physics method called Belief Propagation (BP) algorithm. -->
 </div>
 </div>
 
@@ -73,7 +77,7 @@ Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learni
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2023.06* Third Prize of China Computer Game Competition, 2023.
+- *2023.08* Third Prize of China Computer Game Competition, 2023.
 - *2023.06* Third Prize in the National Mathorcup Mathematical Modeling Competition, 2023.
 - *2022.10* Excellent student of Beijing Institute of Technology, 2022.
 - *2022.10* First prize of China Computer Game Competition,2022. (Top 1%)
