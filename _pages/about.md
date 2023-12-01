@@ -68,9 +68,6 @@ IEEE Transactions on Comupters
 ---
 
 **Tianyu Qi**, Yufeng Zhan, Peng Li, Yuanqing Xia
-
-<!-- - We propose an intelligent HFL synchronization scheme, that decides the aggregation frequencies of cloud and edge based on DRL. -->
-
 </div>
 </div>
 
@@ -87,9 +84,6 @@ IEEE Transactions on Comupters
 ---
 
 **Tianyu Qi**, Yufeng Zhan, Peng Li, Jingcai Guo, Yuanqing Xia
-
-<!-- - We propose an intelligent HFL synchronization scheme, that decides the aggregation frequencies of cloud and edge based on DRL. -->
-
 </div>
 </div>
 
@@ -105,8 +99,6 @@ IEEE Transactions on Comupters
 ---
 
 **Tianyu Qi**, Hongwei Zhang, Yufeng Zhan, Yuanqing Xia
-
-<!-- - We infer the phase transition of DCSBM using a physics method called Belief Propagation (BP) algorithm. -->
 </div>
 </div>
 
