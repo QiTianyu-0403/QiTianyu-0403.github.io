@@ -45,6 +45,8 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 
 **[Arena: A Learning-based Aggregation Framework for Hierarchical Federated Learning](https://arxiv.org/abs/2308.10298)**
 
+---
+
 IEEE Transactions on Comupters
 
 (coming soon)
@@ -61,6 +63,8 @@ IEEE Transactions on Comupters
 
 **[Tomtit: Hierarchical Federated Fine-Tuning of Giant Models based on Autonomous Synchronization](www.tymiracle.top)**
 
+---
+
 2023 IEEE International Conference on Computer Communications
 
 |20-05-2024|Slide(coming soon)|
@@ -75,6 +79,8 @@ IEEE Transactions on Comupters
 
 **[Hwamei: A Learning-based Aggregation Framework for Hierarchical Federated Learning](https://ieeexplore.ieee.org/abstract/document/10272466)**
 
+---
+
 2023 43rd IEEE International Conference on Distributed Computing Systems
 
 |18-07-2023|Slide|
@@ -87,6 +93,8 @@ IEEE Transactions on Comupters
 <div class='paper-box-text' markdown="1">
 
 **[The Research on Approximating the Real Network Degree Distribution Level Based on DCSBM](https://ieeexplore.ieee.org/abstract/document/9902866)**
+
+---
 
 2022 41st Chinese Control Conference (CCC)
 
