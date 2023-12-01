@@ -83,7 +83,7 @@ IEEE Transactions on Comupters
 
 2023 43rd IEEE International Conference on Distributed Computing Systems
 
-|18-07-2023|Slide|
+|18-07-2023|<a href="[https://seanzsya.github.io/CV_Xuyang_ZHAO.pdf](https://github.com/QiTianyu-0403/QiTianyu-0403.github.io/blob/main/slides/ICDCS2023_slide.pdf)" target="_blank"><b>Slide</b></a>|
 
 **Tianyu Qi**, Yufeng Zhan, Peng Li, Jingcai Guo, Yuanqing Xia
 </div>
