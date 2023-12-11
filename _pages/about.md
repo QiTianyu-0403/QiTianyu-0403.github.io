@@ -43,7 +43,7 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TC</div><img src='images/fig.003.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Arena: A Learning-based Aggregation Framework for Hierarchical Federated Learning](https://arxiv.org/abs/2308.10298)**
+**[Robin: An Efficient Hierarchical Federated Learning Framework via a Learning-based Synchronization Scheme](https://arxiv.org/abs/2308.10298)**
 
 ---
 
