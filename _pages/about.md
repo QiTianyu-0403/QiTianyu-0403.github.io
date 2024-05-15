@@ -67,7 +67,7 @@ IEEE Transactions on Comupters
 
 2023 IEEE International Conference on Computer Communications
 
-|20-05-2024|Slide(coming soon)|
+|20-05-2024|<a href="https://QiTianyu-0403.github.io/slides/INFOCOM_2024.pdf" target="_blank"><b>Slide</b></a>|
 
 **Tianyu Qi**, Yufeng Zhan, Peng Li, Yuanqing Xia
 </div>
