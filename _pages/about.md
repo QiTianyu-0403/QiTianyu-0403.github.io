@@ -129,3 +129,5 @@ IEEE Transactions on Comupters
 
 # 💻 Internships
 - *2021.06 - 2021.08*, [Taiji Computer Corporation Limited](https://www.taiji.com.cn/) <img src='./images/TAIJI.png' style='width: 5em;'> , IoT technology Interns. *Responsible for the deployment of the back-end environment of the IoT platform and some product prototype design*
+
+# 🔗 Links
