@@ -110,6 +110,7 @@ Submitted to IEEE Transactions on Services Computing
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2024.06* Outstanding graduates of Beijing Institute of Technology. (Top 10%)
 - *2023.11* Society scholarship of Bank of China, 2023.
 - *2023.08* Third Prize of China Computer Game Competition, 2023.
 - *2023.06* Third Prize in the National Mathorcup Mathematical Modeling Competition, 2023.
@@ -120,7 +121,8 @@ Submitted to IEEE Transactions on Services Computing
 - *2020.10* Principle's scholarship of China University of Geosciences, Wuhan. (Top 3%)
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, Master of Automation major, Post-graduate, Beijing Institute of Technology. **(Grade: 89.71/100)**
+- *2024.09 - Now*, Doctor in Cyber Science and Technology major, Ph.D, Sun Yat-Sen University.
+- *2021.09 - 2024.06*, Master of Automation major, Post-graduate, Beijing Institute of Technology. **(Grade: 89.71/100)**
 - *2017.09 - 2021.06*, Bachelor of Automation major, Undergraduate, China University of Geosciences, Wuhan. **(GPA: 3.97/5)** 
 
 # 📚 Skills
