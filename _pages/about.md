@@ -40,14 +40,14 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 # 📝 Publications 
 ## 📜 Articles
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TC</div><img src='images/fig.003.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC</div><img src='images/fig.003.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Robin: An Efficient Hierarchical Federated Learning Framework via a Learning-based Synchronization Scheme](https://arxiv.org/abs/2308.10298)**
 
 ---
 
-IEEE Transactions on Comupters
+Submitted to IEEE Transactions on Services Computing
 
 (coming soon)
 
@@ -125,7 +125,7 @@ IEEE Transactions on Comupters
 
 # 📚 Skills
 - **Software:** Matlab & Simulink, C & C++, Python, Pytorch, Bash, Linux, Docker, Latex, MS Office
-- **Language:** English (CET-6), Chinese (Native)
+- **Language:** English (CET-6, IELTS-6.5), Chinese (Native)
 
 # 💻 Internships
 - *2024.02 - 2024.07*, [Kuaishou Technology](https://www.kuaishou.com/cn) <img src='./images/Kuaishou.png' style='width: 6em;'> , Large Language Model Interns. *Responsible for the alignment of [KwaiYii](https://github.com/kwai/KwaiYii) using Reinforcement Learning from Human Feedback (RLHF). Optimize the Direct Preference Optimization (DPO) algorithm*
