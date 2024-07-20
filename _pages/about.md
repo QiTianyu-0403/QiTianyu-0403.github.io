@@ -53,7 +53,7 @@ Submitted to IEEE Transactions on Services Computing
 
 ---
 
-**Tianyu Qi**, Yufeng Zhan, Peng Li, Jingcai Guo, Yuanqing Xia
+**Tianyu Qi**, Yufeng Zhan, Peng Li, Yuanqing Xia
 </div>
 </div>
 
