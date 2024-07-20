@@ -122,7 +122,7 @@ Submitted to IEEE Transactions on Services Computing
 
 # 📖 Educations
 - *2024.09 - Now*, Doctor in Cyber Science and Technology major, Ph.D, Sun Yat-Sen University.
-- *2021.09 - 2024.06*, Master of Automation major, Post-graduate, Beijing Institute of Technology. **(Grade: 89.71/100)**
+- *2021.09 - 2024.06*, Master of Automation major, Postgraduate, Beijing Institute of Technology. **(Grade: 89.71/100)**
 - *2017.09 - 2021.06*, Bachelor of Automation major, Undergraduate, China University of Geosciences, Wuhan. **(GPA: 3.97/5)** 
 
 # 📚 Skills
