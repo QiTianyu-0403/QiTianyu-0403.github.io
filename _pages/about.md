@@ -61,7 +61,7 @@ Submitted to IEEE Transactions on Services Computing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM</div><img src='images/fig.004.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Tomtit: Hierarchical Federated Fine-Tuning of Giant Models based on Autonomous Synchronization]([www.tymiracle.top](https://ieeexplore.ieee.org/abstract/document/10621369/))**
+**[Tomtit: Hierarchical Federated Fine-Tuning of Giant Models based on Autonomous Synchronization](https://ieeexplore.ieee.org/abstract/document/10621369/)**
 
 ---
 
