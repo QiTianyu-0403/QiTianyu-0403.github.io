@@ -43,7 +43,7 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC</div><img src='images/fig.003.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Robin: An Efficient Hierarchical Federated Learning Framework via a Learning-based Synchronization Scheme](https://arxiv.org/abs/2308.10298)**
+**[Robin: An Efficient Hierarchical Federated Learning Framework via a Learning-based Synchronization Scheme](www.tymiracle.top)**
 
 ---
 
@@ -61,7 +61,7 @@ Submitted to IEEE Transactions on Services Computing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM</div><img src='images/fig.004.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Tomtit: Hierarchical Federated Fine-Tuning of Giant Models based on Autonomous Synchronization](www.tymiracle.top)**
+**[Tomtit: Hierarchical Federated Fine-Tuning of Giant Models based on Autonomous Synchronization]([www.tymiracle.top](https://ieeexplore.ieee.org/abstract/document/10621369/))**
 
 ---
 
