@@ -40,6 +40,24 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 # 📝 Publications 
 ## 📜 Articles
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/fig.005.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[TSO: Self-Training with Scaled Preference Optimization](https://arxiv.org/pdf/2409.02118)**
+
+---
+
+Submitted to AAAI 2025
+
+(coming soon)
+
+---
+
+Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC</div><img src='images/fig.003.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
