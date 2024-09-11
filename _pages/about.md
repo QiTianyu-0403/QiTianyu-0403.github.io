@@ -40,7 +40,7 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 # 📝 Publications 
 ## 📜 Articles
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/fig.005.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/fig.005.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[TSO: Self-Training with Scaled Preference Optimization](https://arxiv.org/pdf/2409.02118)**
@@ -76,7 +76,7 @@ Submitted to IEEE Transactions on Services Computing
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM</div><img src='images/fig.004.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2024</div><img src='images/fig.004.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Tomtit: Hierarchical Federated Fine-Tuning of Giant Models based on Autonomous Synchronization](https://ieeexplore.ieee.org/abstract/document/10621369/)**
