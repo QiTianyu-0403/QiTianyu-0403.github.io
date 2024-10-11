@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianyu Qi | 齐天宇"
-description              : "An Automation Postgraduate Student. & Focusing on Federated Learning and Cloud Computing."
+description              : "PhD in Cyberspace Security. Focusing on Federated Learning & Cloud Computing & LLMs."
 repository               : "QiTianyu-0403/QiTianyu-0403.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianyu Qi"
   avatar           : "images/person-512x512.png"
-  bio              : "Beijing Institute of Technology"
-  location         : "Beijing, China"
+  bio              : "Sun Yat-Sen University"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    :  "https://scholar.google.com/citations?user=50qdKnIAAAAJ"
