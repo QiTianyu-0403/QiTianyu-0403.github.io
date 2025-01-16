@@ -40,14 +40,31 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 # 📝 Publications 
 ## 📜 Articles
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/fig.005.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2025</div><img src='images/fig.006.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework]([https://arxiv.org/pdf/2409.02118](https://arxiv.org/abs/2412.05546))**
+
+---
+
+Submitted to IEEE Transactions on Services Computing
+
+(coming soon)
+
+---
+
+Haosong Peng*, **Tianyu Qi***, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/fig.005.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[TSO: Self-Training with Scaled Preference Optimization](https://arxiv.org/pdf/2409.02118)**
 
 ---
 
-Submitted to AAAI 2025
+Arxiv
 
 (coming soon)
 
