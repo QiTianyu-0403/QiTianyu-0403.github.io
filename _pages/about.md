@@ -43,7 +43,7 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2025</div><img src='images/fig.006.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework]([https://arxiv.org/pdf/2409.02118](https://arxiv.org/abs/2412.05546))**
+**[Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework](https://arxiv.org/abs/2412.05546)**
 
 ---
 
@@ -53,7 +53,7 @@ Submitted to IEEE Transactions on Services Computing
 
 ---
 
-Haosong Peng*, **Tianyu Qi***, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
+Haosong Peng\*, **Tianyu Qi\***, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
 </div>
 </div>
 
@@ -75,14 +75,14 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC</div><img src='images/fig.003.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCC 2025</div><img src='images/fig.003.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Robin: An Efficient Hierarchical Federated Learning Framework via a Learning-based Synchronization Scheme](www.tymiracle.top)**
 
 ---
 
-Submitted to IEEE Transactions on Services Computing
+Submitted to IEEE Transactions on Cloud Computing
 
 (coming soon)
 
@@ -124,7 +124,7 @@ Submitted to IEEE Transactions on Services Computing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CCC 2022</div><img src='images/fig.001.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC 2022</div><img src='images/fig.001.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[The Research on Approximating the Real Network Degree Distribution Level Based on DCSBM](https://ieeexplore.ieee.org/abstract/document/9902866)**
