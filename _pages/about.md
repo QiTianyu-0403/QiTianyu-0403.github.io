@@ -171,6 +171,6 @@ Submitted to IEEE Transactions on Cloud Computing
 # 🔗 Links
 ## XNS Lab Mates:
 
-- [Hongsong Peng](https://livioni.github.io/)
+- [Haosong Peng](https://livioni.github.io/)
 - [Ruifeng Ma](https://ac.ppeak.site/)
 - [Wei Feng](https://github.com/Couteaux123)
