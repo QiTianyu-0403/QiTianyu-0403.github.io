@@ -142,6 +142,7 @@ Submitted to IEEE Transactions on Cloud Computing
 ## 📁 Patents
 - [An edge intelligent optimization method and device](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(issued), Yufeng Zhan, Jiasheng Wang, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia, 2023.01.24, CN115357402B
 - [A cloud-edge-device collaborative federated learning intelligent optimization method and device](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(filed), Yufeng Zhan, **Tianyu Qi**, Dihua Zhai, Yuan Zhang, Chuge Wu, Yuanqing Xia
+- [An edge device image classification method, device, storage medium, and product](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(filed), Yufeng Zhan, **Tianyu Qi**, Weiqing Liu, Chuge Wu, Dihua Zhai, Yuan Zhang, Yuanqing Xia
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
