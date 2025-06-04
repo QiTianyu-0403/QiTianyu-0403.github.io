@@ -38,7 +38,7 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-## 📜 Articles
+## 📜 Articles(* denotes equal contribution)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2025</div><img src='images/fig.006.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,6 +54,23 @@ Submitted to IEEE Transactions on Services Computing
 ---
 
 Haosong Peng\*, **Tianyu Qi\***, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCC 2025</div><img src='images/fig.003.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Robin: An Efficient Hierarchical Federated Learning Framework via a Learning-based Synchronization Scheme](www.tymiracle.top)**
+
+---
+
+2025 IEEE Transactions on Cloud Computing
+
+|JCR-Q1|20-05-2024|
+
+---
+
+**Tianyu Qi**, Yufeng Zhan, Peng Li, Yuanqing Xia
 </div>
 </div>
 
@@ -75,24 +92,6 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCC 2025</div><img src='images/fig.003.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Robin: An Efficient Hierarchical Federated Learning Framework via a Learning-based Synchronization Scheme](www.tymiracle.top)**
-
----
-
-Submitted to IEEE Transactions on Cloud Computing
-
-(coming soon)
-
----
-
-**Tianyu Qi**, Yufeng Zhan, Peng Li, Yuanqing Xia
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2024</div><img src='images/fig.004.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -102,7 +101,7 @@ Submitted to IEEE Transactions on Cloud Computing
 
 2023 IEEE International Conference on Computer Communications
 
-|20-05-2024|<a href="https://QiTianyu-0403.github.io/slides/INFOCOM_2024.pdf" target="_blank"><b>Slide</b></a>|
+|CCF-A|20-05-2024|<a href="https://QiTianyu-0403.github.io/slides/INFOCOM_2024.pdf" target="_blank"><b>Slide</b></a>|
 
 **Tianyu Qi**, Yufeng Zhan, Peng Li, Yuanqing Xia
 </div>
