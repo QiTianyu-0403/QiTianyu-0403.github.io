@@ -40,6 +40,22 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 # 📝 Publications 
 ## 📜 Articles(* denotes equal contribution)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='images/fig.007.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Sylva: Tailoring Personalized Adversarial Defense in Pre-trained Models via Collaborative Fine-tuning](www.tymiracle.top)**
+
+---
+
+2025 ACM Conference on Computer and Communications Security
+
+|CCF-A|13-10-2025|<a href="www.tymiracle.top" target="_blank"><b>Slide coming</b></a>|
+
+**Tianyu Qi**, Lei Xue, Yufeng Zhan, Xiaobo Ma
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2025</div><img src='images/fig.006.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -66,7 +82,7 @@ Haosong Peng\*, **Tianyu Qi\***, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
 
 2025 IEEE Transactions on Cloud Computing
 
-|JCR-Q1|20-05-2024|
+|JCR-Q1|29-05-2025|
 
 ---
 
@@ -74,7 +90,7 @@ Haosong Peng\*, **Tianyu Qi\***, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/fig.005.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fig.005.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[TSO: Self-Training with Scaled Preference Optimization](https://arxiv.org/pdf/2409.02118)**
@@ -117,7 +133,7 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 
 2023 43rd IEEE International Conference on Distributed Computing Systems
 
-|18-07-2023|<a href="https://QiTianyu-0403.github.io/slides/ICDCS2023_slide.pdf" target="_blank"><b>Slide</b></a>|
+|CCF-B|18-07-2023|<a href="https://QiTianyu-0403.github.io/slides/ICDCS2023_slide.pdf" target="_blank"><b>Slide</b></a>|
 
 **Tianyu Qi**, Yufeng Zhan, Peng Li, Jingcai Guo, Yuanqing Xia
 </div>
@@ -132,7 +148,7 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 
 2022 41st Chinese Control Conference (CCC)
 
-|25-07-2022|<a href="https://QiTianyu-0403.github.io/slides/CCC2022_slide.pdf" target="_blank"><b>Slide</b></a>|
+|EI|25-07-2022|<a href="https://QiTianyu-0403.github.io/slides/CCC2022_slide.pdf" target="_blank"><b>Slide</b></a>|
 
 **Tianyu Qi**, Hongwei Zhang, Yufeng Zhan, Yuanqing Xia
 </div>
