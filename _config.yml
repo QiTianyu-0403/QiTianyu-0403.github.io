@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianyu Qi | 齐天宇"
-description              : "PhD in Cyberspace Security. Focusing on Federated Learning & Cloud Computing & LLMs."
+description              : "PhD in Cyberspace Security. Focusing on Cloud Computing & Federated Learning & LLMs."
 repository               : "QiTianyu-0403/QiTianyu-0403.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianyu Qi"
   avatar           : "images/person-512x512.png"
-  bio              : "Sun Yat-Sen University"
+  bio              : "Sun Yat-sen University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
