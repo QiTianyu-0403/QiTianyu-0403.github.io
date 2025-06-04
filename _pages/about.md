@@ -189,7 +189,11 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 # 🔗 Links
 ## XNS Lab Mates:
 
-- [Haosong Peng](https://livioni.github.io/)
-- [Ruifeng Ma](https://ac.ppeak.site/)
-- [Wei Feng](https://github.com/Couteaux123)
+- [Haosong Peng](https://livioni.github.io/)(HKUST)
+- [Ruifeng Ma](https://ac.ppeak.site/)(BIT)
+- [Wei Feng](https://github.com/Couteaux123)(BIT)
+
+## Co-authors:
+- [Hao Li](https://lifuguan.github.io/)(NWPU)
+- [Yalun Dai](https://github.com/dialogueeeeee)(NTU)
 
