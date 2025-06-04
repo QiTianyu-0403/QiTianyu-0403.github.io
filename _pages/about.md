@@ -43,13 +43,13 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='images/fig.007.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Sylva: Tailoring Personalized Adversarial Defense in Pre-trained Models via Collaborative Fine-tuning](www.tymiracle.top)**
+**[Sylva: Tailoring Personalized Adversarial Defense in Pre-trained Models via Collaborative Fine-tuning](https://tymiracle.top/)**
 
 ---
 
-2025 ACM Conference on Computer and Communications Security
+2025 ACM Conference on Computer and Communications Security   
 
-|CCF-A|13-10-2025|<a href="www.tymiracle.top" target="_blank"><b>Slide coming</b></a>|
+|CCF-A|13-10-2025|<a href="https://tymiracle.top/" target="_blank"><b>Slide coming</b></a>|
 
 **Tianyu Qi**, Lei Xue, Yufeng Zhan, Xiaobo Ma
 </div>
@@ -76,7 +76,7 @@ Haosong Peng\*, **Tianyu Qi\***, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCC 2025</div><img src='images/fig.003.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Robin: An Efficient Hierarchical Federated Learning Framework via a Learning-based Synchronization Scheme](www.tymiracle.top)**
+**[Robin: An Efficient Hierarchical Federated Learning Framework via a Learning-based Synchronization Scheme](https://ieeexplore.ieee.org/abstract/document/11017685)**
 
 ---
 
