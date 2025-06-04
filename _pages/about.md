@@ -150,7 +150,7 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 
 2022 41st Chinese Control Conference (CCC)
 
-|EI|25-07-2022|<a href="https://QiTianyu-0403.github.io/slides/CCC2022_slide.pdf" target="_blank"><b>Slide</b></a>|
+|CAA-A|25-07-2022|<a href="https://QiTianyu-0403.github.io/slides/CCC2022_slide.pdf" target="_blank"><b>Slide</b></a>|
 
 **Tianyu Qi**, Hongwei Zhang, Yufeng Zhan, Yuanqing Xia
 </div>
