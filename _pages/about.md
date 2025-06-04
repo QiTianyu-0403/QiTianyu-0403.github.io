@@ -27,6 +27,8 @@ I’m a Phd student at the School of Cyber Science and Technology, [Sun Yat-sen 
 
 I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&logo=Zhihu&logoColor=FFFFFF&color=0084FF)](https://www.zhihu.com/people/tymiracle) & [![Bilibili](https://img.shields.io/badge/-Bilibili-333333?style=flat&logo=Bilibili&logoColor=FFFFFF&color=FF69B4)](https://space.bilibili.com/515835334?spm_id_from=333.1007.0.0) & [![Github](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub&logoColor=FFFFFF&color=000000)](https://github.com/QiTianyu-0403) to share my *Blogs & Life & Codes*. ***I love to make friends. So if you want to say hi, I'll be happy to meet you more!***
 
+<span style="color: #A9A9A9;">***Life is a journey, keep calm and carry on. :)***</span>
+
 # 🏷 Projects
 - *2022.01 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training. (Participate)** Supported by the [Young Scientists Fund of the National Natural Science Foundation of China](https://www.nsfc.gov.cn/publish/portal0/xmzn/2020/05/). Responsible for the optimization research of federated learning algorithm based on reinforcement learning.
 - *2022.09 - 2022.12*, **Comprehensive Study of Reinforcement Learning Applications in Aviation. (Participate)** Supported by the [China's aviation system engineering research institute](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%A9%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E7%A0%94%E7%A9%B6%E6%89%80/9865501). Responsible for researching on UAV path planning based on reinforcement learning.
@@ -191,5 +193,3 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 - [Ruifeng Ma](https://ac.ppeak.site/)
 - [Wei Feng](https://github.com/Couteaux123)
 
-
-<span style="color: #A9A9A9;">***Life is a journey, keep calm and carry on.***</span>
