@@ -30,6 +30,7 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 <span style="color: #A9A9A9;">***Life is a journey, keep calm and carry on. :)***</span>
 
 # 🏷 Projects
+- *2024.12 - 2026.12*, **Smart Agriculture Management via Computing Continuum: Key Technologies and Applications. (Participate)** Supported by the [National Key Research and Development Program of China](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E7%A0%94%E5%8F%91%E8%AE%A1%E5%88%92). Responsible for adversarial defense design using pre-trained models to secure smart agriculture systems.
 - *2022.01 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training. (Participate)** Supported by the [Young Scientists Fund of the National Natural Science Foundation of China](https://www.nsfc.gov.cn/publish/portal0/xmzn/2020/05/). Responsible for the optimization research of federated learning algorithm based on reinforcement learning.
 - *2022.09 - 2022.12*, **Comprehensive Study of Reinforcement Learning Applications in Aviation. (Participate)** Supported by the [China's aviation system engineering research institute](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%A9%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E7%A0%94%E7%A9%B6%E6%89%80/9865501). Responsible for researching on UAV path planning based on reinforcement learning.
 - *2021.03 - 2022.03*, **Cloud-side collaborative software design. (Participate)** Supported by the [China Unicom](http://www.chinaunicom.com.cn/index.html). Responsible for researching on task scheduling algorithm in Cloud-Edge collaborative environment.
@@ -67,7 +68,7 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 
 Submitted to IEEE Transactions on Services Computing
 
-(coming soon)
+|JCR-Q1|(coming soon)|
 
 ---
 
