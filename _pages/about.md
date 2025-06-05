@@ -134,7 +134,7 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 
 ---
 
-2023 43rd IEEE International Conference on Distributed Computing Systems
+2023 IEEE International Conference on Distributed Computing Systems
 
 |CCF-B|18-07-2023|<a href="https://QiTianyu-0403.github.io/slides/ICDCS2023_slide.pdf" target="_blank"><b>Slide</b></a>|
 
