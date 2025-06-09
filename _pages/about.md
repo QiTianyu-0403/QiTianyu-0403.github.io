@@ -46,7 +46,7 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='images/fig.007.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Sylva: Tailoring Personalized Adversarial Defense in Pre-trained Models via Collaborative Fine-tuning](https://tymiracle.top/)**
+**[Sylva: Tailoring Personalized Adversarial Defense in Pre-trained Models via Collaborative Fine-tuning](https://arxiv.org/abs/2506.05402)**
 
 ---
 
