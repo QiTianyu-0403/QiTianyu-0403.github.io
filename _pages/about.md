@@ -183,7 +183,7 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 - **Software:** Matlab & Simulink, C & C++, Python, Pytorch, Bash, Linux, Docker, Latex, MS Office
 - **Language:** English (CET-6, IELTS-6.5), Chinese (Native)
 
-# 💻 Internships
+# 💻 Internships and Experiences
 - *2024.02 - 2024.07*, [Kuaishou Technology](https://www.kuaishou.com/cn) <img src='./images/Kuaishou.png' style='width: 6em;'> , Large Language Model Interns. *Responsible for the alignment of [KwaiYii](https://github.com/kwai/KwaiYii) using Reinforcement Learning from Human Feedback (RLHF). Optimize the Direct Preference Optimization (DPO) algorithm*
 - *2021.06 - 2021.08*, [Taiji Computer Corporation Limited](https://www.taiji.com.cn/) <img src='./images/TAIJI.png' style='width: 5em;'> , IoT technology Interns. *Responsible for the deployment of the back-end environment of the IoT platform and some product prototype design*
 
