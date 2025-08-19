@@ -190,7 +190,11 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 - *2021.06 - 2021.08*, [Taiji Computer Corporation Limited](https://www.taiji.com.cn/) <img src='./images/TAIJI.png' style='width: 5em;'> , IoT technology Interns. *Responsible for the deployment of the back-end environment of the IoT platform and some product prototype design*
 
 ## Academic Service
-- Reviewer for Journals: IEEE TDSC, IoTJ
+Reviewer for Journals:
+
+- IEEE Transactions on Dependable and Secure Computing.
+- IEEE Internet of Things Journal.
+- ACM Transactions on Sensor Networks.
 
 # 🔗 Links
 ## XNS Lab Mates:
