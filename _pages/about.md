@@ -52,7 +52,7 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 
 2025 ACM Conference on Computer and Communications Security   
 
-|CCF-A|13-10-2025|<a href="https://tymiracle.top/" target="_blank"><b>Slide coming</b></a>|
+|CCF-A|13-10-2025|<a href="https://QiTianyu-0403.github.io/slides/CCS2025.pdf" target="_blank"><b>Slide</b></a>|
 
 **Tianyu Qi**, Lei Xue, Yufeng Zhan, Xiaobo Ma
 </div>
