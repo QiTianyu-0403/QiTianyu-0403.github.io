@@ -43,7 +43,25 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 # 📝 Publications 
 ## 📜 Articles(* denotes equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC</div><img src='images/fig.008.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fig.009.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](https://arxiv.org/abs/2511.10560)**
+
+---
+
+Arxiv
+
+(coming soon)
+
+---
+
+Haosong Peng, Hao Li, Yalun Dai, Yushi Lan, Yihang Luo, **Tianyu Qi**, Zhengshen Zhang, Yufeng Zhan, Junfei Zhang, Wenchao Xu, Ziwei Liu
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fig.008.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Lorica: A Synergistic Fine-Tuning Framework for Advancing Personalized Adversarial Robustness](https://arxiv.org/abs/2506.05402)**
