@@ -43,10 +43,26 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 # 📝 Publications 
 ## 📜 Articles(* denotes equal contribution)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC</div><img src='images/fig.008.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Lorica: A Synergistic Fine-Tuning Framework for Advancing Personalized Adversarial Robustness](https://arxiv.org/abs/2506.05402)**
+
+---
+
+Submitted to IEEE Transactions on Dependable and Secure Computing
+
+|Arxiv|Coming Soon|
+
+**Tianyu Qi**, Lei Xue, Yufeng Zhan, Xiaobo Ma
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='images/fig.007.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Sylva: Tailoring Personalized Adversarial Defense in Pre-trained Models via Collaborative Fine-tuning](https://arxiv.org/abs/2506.05402)**
+**[Sylva: Tailoring Personalized Adversarial Defense in Pre-trained Models via Collaborative Fine-tuning](https://dl.acm.org/doi/abs/10.1145/3719027.3744805)**
 
 ---
 
@@ -193,6 +209,7 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 Reviewer for Journals:
 
 - IEEE Transactions on Dependable and Secure Computing.
+- IEEE Transactions on Wireless Communications.
 - IEEE Internet of Things Journal.
 - ACM Transactions on Sensor Networks.
 
