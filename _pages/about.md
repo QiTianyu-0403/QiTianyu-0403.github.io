@@ -43,7 +43,7 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 # 📝 Publications 
 ## 📜 Articles(* denotes equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/fig.009.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/fig.009.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](https://arxiv.org/abs/2511.10560)**
@@ -61,7 +61,7 @@ Haosong Peng, Hao Li, Yalun Dai, Yushi Lan, Yihang Luo, **Tianyu Qi**, Zhengshen
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2025</div><img src='images/fig.006.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2026</div><img src='images/fig.006.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework](https://arxiv.org/abs/2412.05546)**
@@ -199,13 +199,13 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024.06* Outstanding graduates of Beijing Institute of Technology. (Top 10%)
-- *2023.11* Society scholarship of Bank of China, 2023.
+- *2026.02* Qi'anxin Scholarship, 2025 (Top 10%)
+- *2024.06* Outstanding graduates of Beijing Institute of Technology, 2024 (Top 10%)
+- *2023.11* Bank of China Scholarship for Basic Disciplines, 2023. (Top 10%)
 - *2023.08* Third Prize of China Computer Game Competition, 2023.
 - *2023.06* Third Prize in the National Mathorcup Mathematical Modeling Competition, 2023.
 - *2022.10* Excellent student of Beijing Institute of Technology, 2022.
 - *2022.10* First prize of China Computer Game Competition,2022. (Top 1%)
-- *2022.09* The special scholarship of Beijing Institute of Technology, 2022. 
 - *2021.06* Outstanding graduates of China University of Geosciences, Wuhan. (Top 1%)
 - *2020.10* Principle's scholarship of China University of Geosciences, Wuhan. (Top 3%)
 
