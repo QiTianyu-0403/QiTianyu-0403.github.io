@@ -43,16 +43,16 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 # 📝 Publications 
 ## 📜 Articles(* denotes equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fig.009.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/fig.009.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](https://arxiv.org/abs/2511.10560)**
 
 ---
 
-Arxiv
+2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 
-(coming soon)
+|CCF-A|21-2-2026|<a href="https://livioni.github.io/OmniVGGT-official/" target="_blank"><b>Demo</b></a>|
 
 ---
 
