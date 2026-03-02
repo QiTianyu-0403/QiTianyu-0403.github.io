@@ -52,11 +52,29 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 
 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 
-|CCF-A|21-2-2026|<a href="https://livioni.github.io/OmniVGGT-official/" target="_blank"><b>Demo</b></a>|
+|CCF-A|2026-02|<a href="https://livioni.github.io/OmniVGGT-official/" target="_blank"><b>Demo</b></a>|
 
 ---
 
 Haosong Peng, Hao Li, Yalun Dai, Yushi Lan, Yihang Luo, **Tianyu Qi**, Zhengshen Zhang, Yufeng Zhan, Junfei Zhang, Wenchao Xu, Ziwei Liu
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2025</div><img src='images/fig.006.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework](https://arxiv.org/abs/2412.05546)**
+
+---
+
+2026 IEEE Transactions on Services Computing
+
+|JCR-Q1|2026-02|
+
+---
+
+Haosong Peng\*, **Tianyu Qi\***, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
 </div>
 </div>
 
@@ -68,7 +86,7 @@ Haosong Peng, Hao Li, Yalun Dai, Yushi Lan, Yihang Luo, **Tianyu Qi**, Zhengshen
 
 ---
 
-Submitted to IEEE Transactions on Dependable and Secure Computing
+Submitted to IEEE Transactions on Mobile Computing
 
 |Arxiv|Coming Soon|
 
@@ -86,29 +104,12 @@ Submitted to IEEE Transactions on Dependable and Secure Computing
 
 2025 ACM Conference on Computer and Communications Security   
 
-|CCF-A|13-10-2025|<a href="https://QiTianyu-0403.github.io/slides/CCS2025.pdf" target="_blank"><b>Slide</b></a>|
+|CCF-A|2025-10|<a href="https://QiTianyu-0403.github.io/slides/CCS2025.pdf" target="_blank"><b>Slide</b></a>|
 
 **Tianyu Qi**, Lei Xue, Yufeng Zhan, Xiaobo Ma
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2025</div><img src='images/fig.006.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework](https://arxiv.org/abs/2412.05546)**
-
----
-
-Submitted to IEEE Transactions on Services Computing
-
-|JCR-Q1|(coming soon)|
-
----
-
-Haosong Peng\*, **Tianyu Qi\***, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCC 2025</div><img src='images/fig.003.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -119,7 +120,7 @@ Haosong Peng\*, **Tianyu Qi\***, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
 
 2025 IEEE Transactions on Cloud Computing
 
-|JCR-Q1|29-05-2025|
+|JCR-Q1|2025-05|
 
 ---
 
@@ -154,7 +155,7 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 
 2023 IEEE International Conference on Computer Communications
 
-|CCF-A|20-05-2024|<a href="https://QiTianyu-0403.github.io/slides/INFOCOM_2024.pdf" target="_blank"><b>Slide</b></a>|
+|CCF-A|2024-05|<a href="https://QiTianyu-0403.github.io/slides/INFOCOM_2024.pdf" target="_blank"><b>Slide</b></a>|
 
 **Tianyu Qi**, Yufeng Zhan, Peng Li, Yuanqing Xia
 </div>
@@ -170,7 +171,7 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 
 2023 IEEE International Conference on Distributed Computing Systems
 
-|CCF-B|18-07-2023|<a href="https://QiTianyu-0403.github.io/slides/ICDCS2023_slide.pdf" target="_blank"><b>Slide</b></a>|
+|CCF-B|2023-07|<a href="https://QiTianyu-0403.github.io/slides/ICDCS2023_slide.pdf" target="_blank"><b>Slide</b></a>|
 
 **Tianyu Qi**, Yufeng Zhan, Peng Li, Jingcai Guo, Yuanqing Xia
 </div>
@@ -185,7 +186,7 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 
 2022 41st Chinese Control Conference (CCC)
 
-|CAA-A|25-07-2022|<a href="https://QiTianyu-0403.github.io/slides/CCC2022_slide.pdf" target="_blank"><b>Slide</b></a>|
+|CAA-A|2022-07|<a href="https://QiTianyu-0403.github.io/slides/CCC2022_slide.pdf" target="_blank"><b>Slide</b></a>|
 
 **Tianyu Qi**, Hongwei Zhang, Yufeng Zhan, Yuanqing Xia
 </div>
