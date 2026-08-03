@@ -29,7 +29,7 @@ body.liquid-glass-theme {
     radial-gradient(circle at 12% 8%, rgba(255,255,255,.94), transparent 26rem),
     radial-gradient(circle at 88% 18%, rgba(218,195,176,.42), transparent 32rem),
     linear-gradient(145deg, #faf6f1 0%, #eee1d5 48%, #f7f0e9 100%);
-  background-attachment: fixed;
+  background-attachment: scroll;
 }
 
 .ambient-canvas {
@@ -44,10 +44,8 @@ body.liquid-glass-theme {
   position: absolute;
   display: block;
   border-radius: 45% 55% 62% 38% / 42% 36% 64% 58%;
-  filter: blur(4px);
-  opacity: .62;
-  will-change: transform;
-  mix-blend-mode: multiply;
+  filter: blur(2px);
+  opacity: .48;
   &:after {
     position: absolute;
     inset: 9%;
@@ -60,24 +58,24 @@ body.liquid-glass-theme {
 .ambient-orb--one {
   top: -10rem; left: -8rem; width: 32rem; height: 32rem;
   background: radial-gradient(circle at 34% 30%, rgba(255,255,255,.86), rgba(198,164,139,.24) 48%, transparent 70%);
-  animation: liquid-drift-one 18s ease-in-out infinite alternate;
+  animation: liquid-drift-one 30s ease-in-out infinite alternate;
 }
 .ambient-orb--two {
   top: 28%; right: -12rem; width: 38rem; height: 44rem;
   background: radial-gradient(circle at 45% 40%, rgba(232,215,201,.65), rgba(174,136,109,.18) 52%, transparent 72%);
-  animation: liquid-drift-two 22s ease-in-out infinite alternate;
+  animation: liquid-drift-two 36s ease-in-out infinite alternate;
 }
 .ambient-orb--three {
   bottom: -14rem; left: 24%; width: 34rem; height: 30rem;
   background: radial-gradient(circle at 45% 38%, rgba(255,247,238,.72), rgba(191,154,127,.18) 54%, transparent 73%);
-  animation: liquid-drift-three 20s ease-in-out infinite alternate;
+  animation: liquid-drift-three 34s ease-in-out infinite alternate;
 }
 .ambient-grain {
   position: absolute;
   inset: -60%;
   opacity: .045;
   background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.92' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.7'/%3E%3C/svg%3E");
-  animation: grain-shift .22s steps(2) infinite;
+  animation: none;
 }
 
 .liquid-glass-theme .masthead {
@@ -90,8 +88,8 @@ body.liquid-glass-theme {
   border-radius: 1.35rem;
   background: rgba(250,244,237,.68);
   box-shadow: 0 12px 38px rgba(93,65,47,.09), inset 0 1px 0 rgba(255,255,255,.82);
-  -webkit-backdrop-filter: blur(22px) saturate(145%);
-  backdrop-filter: blur(22px) saturate(145%);
+  -webkit-backdrop-filter: blur(12px) saturate(120%);
+  backdrop-filter: blur(12px) saturate(120%);
 }
 .liquid-glass-theme .masthead__inner-wrap { max-width: none; padding: .48rem .8rem; }
 .liquid-glass-theme .greedy-nav { min-width: 0; background: transparent; }
@@ -127,8 +125,8 @@ body.liquid-glass-theme {
   border-radius: 1rem;
   background: rgba(248,240,233,.88);
   box-shadow: var(--glass-shadow);
-  -webkit-backdrop-filter: blur(22px);
-  backdrop-filter: blur(22px);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
   &:before, &:after { display: none; }
 }
 
@@ -157,8 +155,8 @@ body.liquid-glass-theme {
     radial-gradient(460px circle at var(--pointer-x) var(--pointer-y), rgba(255,255,255,.72), transparent 42%),
     linear-gradient(145deg, rgba(255,255,255,.62), var(--glass-fill));
   box-shadow: var(--glass-shadow), inset 0 1px 0 rgba(255,255,255,.88), inset 0 -1px 0 rgba(138,97,70,.05);
-  -webkit-backdrop-filter: blur(24px) saturate(145%);
-  backdrop-filter: blur(24px) saturate(145%);
+  -webkit-backdrop-filter: blur(14px) saturate(120%);
+  backdrop-filter: blur(14px) saturate(120%);
 }
 .liquid-glass-theme .profile_box:before,
 .liquid-glass-theme .glass-section:before {
@@ -406,13 +404,13 @@ body.liquid-glass-theme {
 .reveal-on-scroll {
   opacity: 0;
   transform: translateY(28px) scale(.985);
-  filter: blur(5px);
+  filter: none;
 }
 .reveal-on-scroll.is-visible {
   opacity: 1;
   transform: translateY(0) scale(1);
-  filter: blur(0);
-  transition: opacity .78s ease var(--reveal-delay,0ms), transform .85s cubic-bezier(.18,.78,.2,1) var(--reveal-delay,0ms), filter .65s ease var(--reveal-delay,0ms), box-shadow .4s ease;
+  filter: none;
+  transition: opacity .55s ease var(--reveal-delay,0ms), transform .6s cubic-bezier(.18,.78,.2,1) var(--reveal-delay,0ms), box-shadow .4s ease;
 }
 
 @keyframes liquid-drift-one { to { transform: translate3d(6rem,3rem,0) rotate(18deg) scale(1.08); border-radius: 58% 42% 40% 60% / 52% 58% 42% 48%; } }
@@ -422,6 +420,22 @@ body.liquid-glass-theme {
 
 @media (max-width: 1080px) {
   .liquid-glass-theme .greedy-nav .visible-links a { padding-left: .5rem; padding-right: .5rem; font-size: .78rem; }
+}
+
+/* Keep the glass impression while avoiding expensive compositing on touch devices. */
+@media (hover: none), (max-width: 680px) {
+  .ambient-canvas { opacity: .62; }
+  .ambient-orb { filter: none; opacity: .28; animation: none; }
+  .ambient-grain { display: none; }
+  .liquid-glass-theme .masthead,
+  .liquid-glass-theme .greedy-nav .hidden-links,
+  .liquid-glass-theme .profile_box,
+  .liquid-glass-theme .glass-section {
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+  }
+  .liquid-glass-theme .profile_box,
+  .liquid-glass-theme .glass-section { background: linear-gradient(145deg, rgba(255,255,255,.72), rgba(255,251,246,.76)); }
 }
 @media (max-width: 924px) {
   .liquid-glass-theme #main { grid-template-columns: 1fr; margin-top: 1.5rem; }

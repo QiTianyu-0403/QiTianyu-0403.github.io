@@ -51,12 +51,18 @@
   }
 
   function setupSpotlight() {
+    if (!window.matchMedia("(hover: hover) and (pointer: fine)").matches) return;
     var cards = document.querySelectorAll(".glass-section, .profile_box, .paper-box");
     cards.forEach(function (card) {
+      var raf = 0;
       card.addEventListener("pointermove", function (event) {
-        var rect = card.getBoundingClientRect();
-        card.style.setProperty("--pointer-x", (event.clientX - rect.left) + "px");
-        card.style.setProperty("--pointer-y", (event.clientY - rect.top) + "px");
+        if (raf) return;
+        raf = window.requestAnimationFrame(function () {
+          var rect = card.getBoundingClientRect();
+          card.style.setProperty("--pointer-x", (event.clientX - rect.left) + "px");
+          card.style.setProperty("--pointer-y", (event.clientY - rect.top) + "px");
+          raf = 0;
+        });
       }, { passive: true });
     });
   }
@@ -125,7 +131,6 @@
     setupReveal();
     setupSpotlight();
     setupNavigation();
-    setupAmbientMotion();
     restoreHashPosition(initialHash);
   });
 })();
