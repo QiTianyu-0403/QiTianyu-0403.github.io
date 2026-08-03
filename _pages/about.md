@@ -29,16 +29,10 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 
 <span style="color: #A9A9A9;">***Life is a journey, keep calm and carry on. :)***</span>
 
-# 🏷 Projects
-- *2024.12 - 2026.12*, **Smart Agriculture Management via Computing Continuum: Key Technologies and Applications. (Participate)** Supported by the [National Key Research and Development Program of China](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E7%A0%94%E5%8F%91%E8%AE%A1%E5%88%92). Responsible for adversarial defense design using pre-trained models to secure smart agriculture systems.
-- *2022.01 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training. (Participate)** Supported by the [Young Scientists Fund of the National Natural Science Foundation of China](https://www.nsfc.gov.cn/publish/portal0/xmzn/2020/05/). Responsible for the optimization research of federated learning algorithm based on reinforcement learning.
-- *2022.09 - 2022.12*, **Comprehensive Study of Reinforcement Learning Applications in Aviation. (Participate)** Supported by the [China's aviation system engineering research institute](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%A9%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E7%A0%94%E7%A9%B6%E6%89%80/9865501). Responsible for researching on UAV path planning based on reinforcement learning.
-- *2021.03 - 2022.03*, **Cloud-side collaborative software design. (Participate)** Supported by the [China Unicom](http://www.chinaunicom.com.cn/index.html). Responsible for researching on task scheduling algorithm in Cloud-Edge collaborative environment.
-- *2018.05 - 2021.12*, **Data-driven cloud data center intelligent management technology and platform. (Participate)** Supported by the [National Key Research and Development Program of China](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E7%A0%94%E5%8F%91%E8%AE%A1%E5%88%92). Responsible for the optimization of the task graph classification algorithm in the scheduling algorithm.
-
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2026.XX*: 🎉 Our paper **"Your Paper Title"** has been accepted by **Conference or Journal Name 2026**. [[Paper](https://example.com)] [[Code](https://github.com/your-account/your-project)]
+- *2026.XX*: 🎤 I gave a talk titled **"Your Talk Title"** at **Event or University Name**. [[Slides](https://example.com)]
+- *2025.XX*: 🏆 I received the **Name of Scholarship or Award**.
 
 # 📝 Publications 
 ## 📜 Articles(* denotes equal contribution)
@@ -198,6 +192,13 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 - [An edge device image classification method, device, storage medium, and product](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(filed), Yufeng Zhan, **Tianyu Qi**, Weiqing Liu, Chuge Wu, Dihua Zhai, Yuan Zhang, Yuanqing Xia
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+# 🏷 Projects
+- *2024.12 - 2026.12*, **Smart Agriculture Management via Computing Continuum: Key Technologies and Applications. (Participate)** Supported by the [National Key Research and Development Program of China](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E7%A0%94%E5%8F%91%E8%AE%A1%E5%88%92). Responsible for adversarial defense design using pre-trained models to secure smart agriculture systems.
+- *2022.01 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training. (Participate)** Supported by the [Young Scientists Fund of the National Natural Science Foundation of China](https://www.nsfc.gov.cn/publish/portal0/xmzn/2020/05/). Responsible for the optimization research of federated learning algorithm based on reinforcement learning.
+- *2022.09 - 2022.12*, **Comprehensive Study of Reinforcement Learning Applications in Aviation. (Participate)** Supported by the [China's aviation system engineering research institute](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%A9%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E7%A0%94%E7%A9%B6%E6%89%80/9865501). Responsible for researching on UAV path planning based on reinforcement learning.
+- *2021.03 - 2022.03*, **Cloud-side collaborative software design. (Participate)** Supported by the [China Unicom](http://www.chinaunicom.com.cn/index.html). Responsible for researching on task scheduling algorithm in Cloud-Edge collaborative environment.
+- *2018.05 - 2021.12*, **Data-driven cloud data center intelligent management technology and platform. (Participate)** Supported by the [National Key Research and Development Program of China](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E7%A0%94%E5%8F%91%E8%AE%A1%E5%88%92). Responsible for the optimization of the task graph classification algorithm in the scheduling algorithm.
+
 # 🎖 Honors and Awards
 - *2026.02* Qi'anxin Scholarship, 2025 (Top 10%)
 - *2024.06* Outstanding graduates of Beijing Institute of Technology, 2024 (Top 10%)
@@ -243,4 +244,3 @@ Reviewer for Journals:
 ## Co-authors:
 - [Hao Li](https://lifuguan.github.io/)(NWPU)
 - [Yalun Dai](https://github.com/dialogueeeeee)(NTU)
-

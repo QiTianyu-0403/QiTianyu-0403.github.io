@@ -3,11 +3,14 @@ main:
   - title: "About Me"
     url: "/#about-me"
   
-  - title: "Projects"
-    url: "/#-projects"
+  - title: "News"
+    url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Projects"
+    url: "/#-projects"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
