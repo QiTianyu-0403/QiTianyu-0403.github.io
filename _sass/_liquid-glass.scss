@@ -21,7 +21,7 @@ body.liquid-glass-theme {
   min-height: 100vh;
   overflow-x: hidden;
   color: var(--warm-ink);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 15px;
   line-height: 1.72;
   background:
@@ -183,7 +183,7 @@ body.liquid-glass-theme {
 .liquid-glass-theme .sidebar .author__name {
   margin: 0;
   color: var(--warm-ink);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 1.55rem;
   font-weight: 600;
   letter-spacing: -.02em;
@@ -247,7 +247,7 @@ body.liquid-glass-theme {
   color: var(--warm-ink);
   border: 0;
   border-bottom: 1px solid var(--warm-line);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 1.65rem;
   font-weight: 600;
   letter-spacing: -.025em;
@@ -264,7 +264,7 @@ body.liquid-glass-theme {
 .liquid-glass-theme .glass-section h2 {
   margin: 1.25rem 0 .75rem;
   color: var(--warm-accent-deep);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 1.15rem;
   font-weight: 600;
 }
@@ -355,7 +355,7 @@ body.liquid-glass-theme {
   order: 0;
 }
 .liquid-glass-theme .paper-box-text p { margin: 0 0 .5rem; font-size: .88rem; line-height: 1.55; }
-.liquid-glass-theme .paper-box-text p:first-of-type { font-family: Georgia, "Times New Roman", serif; font-size: 1rem; line-height: 1.42; }
+.liquid-glass-theme .paper-box-text p:first-of-type { font-family: "Trebuchet MS", Helvetica, sans-serif; font-size: 1rem; line-height: 1.42; }
 .liquid-glass-theme .paper-box hr { margin: .55rem 0; border-color: var(--warm-line); }
 .liquid-glass-theme .paper-box table { width: auto; margin: .35rem 0; border: 0; font-size: .75rem; }
 .liquid-glass-theme .paper-box td {
