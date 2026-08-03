@@ -9,7 +9,7 @@
     nodes.forEach(function (node) {
       if (node.tagName === "H1") {
         currentSection = document.createElement("section");
-        currentSection.className = "glass-section reveal-on-scroll";
+        currentSection.className = "glass-section";
         currentSection.setAttribute("aria-labelledby", node.id);
         content.appendChild(currentSection);
 
@@ -25,45 +25,6 @@
       } else {
         introNodes.push(node);
       }
-    });
-  }
-
-  function setupReveal() {
-    var elements = document.querySelectorAll(".reveal-on-scroll");
-    if (!("IntersectionObserver" in window)) {
-      elements.forEach(function (element) { element.classList.add("is-visible"); });
-      return;
-    }
-
-    var observer = new IntersectionObserver(function (entries) {
-      entries.forEach(function (entry) {
-        if (entry.isIntersecting) {
-          entry.target.classList.add("is-visible");
-          observer.unobserve(entry.target);
-        }
-      });
-    }, { rootMargin: "0px 0px -8%", threshold: 0.08 });
-
-    elements.forEach(function (element, index) {
-      element.style.setProperty("--reveal-delay", Math.min(index * 55, 280) + "ms");
-      observer.observe(element);
-    });
-  }
-
-  function setupSpotlight() {
-    if (!window.matchMedia("(hover: hover) and (pointer: fine)").matches) return;
-    var cards = document.querySelectorAll(".glass-section, .profile_box, .paper-box");
-    cards.forEach(function (card) {
-      var raf = 0;
-      card.addEventListener("pointermove", function (event) {
-        if (raf) return;
-        raf = window.requestAnimationFrame(function () {
-          var rect = card.getBoundingClientRect();
-          card.style.setProperty("--pointer-x", (event.clientX - rect.left) + "px");
-          card.style.setProperty("--pointer-y", (event.clientY - rect.top) + "px");
-          raf = 0;
-        });
-      }, { passive: true });
     });
   }
 
@@ -83,20 +44,6 @@
       });
     }, { rootMargin: "-18% 0px -68%", threshold: 0 });
     headings.forEach(function (heading) { observer.observe(heading); });
-  }
-
-  function setupAmbientMotion() {
-    var reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    if (reducedMotion) return;
-    var ticking = false;
-    window.addEventListener("scroll", function () {
-      if (ticking) return;
-      ticking = true;
-      window.requestAnimationFrame(function () {
-        document.documentElement.style.setProperty("--page-scroll", window.scrollY + "px");
-        ticking = false;
-      });
-    }, { passive: true });
   }
 
   function restoreHashPosition(initialHash) {
@@ -127,9 +74,7 @@
     var content = document.querySelector(".page__content");
     if (content) groupSections(content);
     var profile = document.querySelector(".profile_box");
-    if (profile) profile.classList.add("reveal-on-scroll");
-    setupReveal();
-    setupSpotlight();
+    if (profile) profile.classList.add("is-visible");
     setupNavigation();
     restoreHashPosition(initialHash);
   });

@@ -8,7 +8,6 @@
   --glass-fill: rgba(255, 251, 246, 0.56);
   --glass-edge: rgba(255, 255, 255, 0.76);
   --glass-shadow: 0 22px 60px rgba(91, 63, 45, 0.10);
-  --page-scroll: 0px;
 }
 
 html {
@@ -58,24 +57,24 @@ body.liquid-glass-theme {
 .ambient-orb--one {
   top: -10rem; left: -8rem; width: 32rem; height: 32rem;
   background: radial-gradient(circle at 34% 30%, rgba(255,255,255,.86), rgba(198,164,139,.24) 48%, transparent 70%);
-  animation: liquid-drift-one 30s ease-in-out infinite alternate;
+  animation: none;
 }
 .ambient-orb--two {
   top: 28%; right: -12rem; width: 38rem; height: 44rem;
   background: radial-gradient(circle at 45% 40%, rgba(232,215,201,.65), rgba(174,136,109,.18) 52%, transparent 72%);
-  animation: liquid-drift-two 36s ease-in-out infinite alternate;
+  animation: none;
 }
 .ambient-orb--three {
   bottom: -14rem; left: 24%; width: 34rem; height: 30rem;
   background: radial-gradient(circle at 45% 38%, rgba(255,247,238,.72), rgba(191,154,127,.18) 54%, transparent 73%);
-  animation: liquid-drift-three 34s ease-in-out infinite alternate;
+  animation: none;
 }
 .ambient-grain {
   position: absolute;
   inset: -60%;
   opacity: .045;
   background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.92' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.7'/%3E%3C/svg%3E");
-  animation: none;
+  display: none;
 }
 
 .liquid-glass-theme .masthead {
@@ -88,8 +87,6 @@ body.liquid-glass-theme {
   border-radius: 1.35rem;
   background: rgba(250,244,237,.68);
   box-shadow: 0 12px 38px rgba(93,65,47,.09), inset 0 1px 0 rgba(255,255,255,.82);
-  -webkit-backdrop-filter: blur(12px) saturate(120%);
-  backdrop-filter: blur(12px) saturate(120%);
 }
 .liquid-glass-theme .masthead__inner-wrap { max-width: none; padding: .48rem .8rem; }
 .liquid-glass-theme .greedy-nav { min-width: 0; background: transparent; }
@@ -125,8 +122,6 @@ body.liquid-glass-theme {
   border-radius: 1rem;
   background: rgba(248,240,233,.88);
   box-shadow: var(--glass-shadow);
-  -webkit-backdrop-filter: blur(12px);
-  backdrop-filter: blur(12px);
   &:before, &:after { display: none; }
 }
 
@@ -147,16 +142,11 @@ body.liquid-glass-theme {
 
 .liquid-glass-theme .profile_box,
 .liquid-glass-theme .glass-section {
-  --pointer-x: 50%; --pointer-y: 20%;
   position: relative;
   overflow: hidden;
   border: 1px solid var(--glass-edge);
-  background:
-    radial-gradient(460px circle at var(--pointer-x) var(--pointer-y), rgba(255,255,255,.72), transparent 42%),
-    linear-gradient(145deg, rgba(255,255,255,.62), var(--glass-fill));
+  background: linear-gradient(145deg, rgba(255,255,255,.72), rgba(255,251,246,.58));
   box-shadow: var(--glass-shadow), inset 0 1px 0 rgba(255,255,255,.88), inset 0 -1px 0 rgba(138,97,70,.05);
-  -webkit-backdrop-filter: blur(14px) saturate(120%);
-  backdrop-filter: blur(14px) saturate(120%);
 }
 .liquid-glass-theme .profile_box:before,
 .liquid-glass-theme .glass-section:before {
@@ -240,13 +230,13 @@ body.liquid-glass-theme {
   padding: 1.65rem 1.8rem 1.8rem;
   border-radius: 1.45rem 2.25rem 1.55rem 2rem;
   transform-style: preserve-3d;
-  transition: transform .45s cubic-bezier(.2,.75,.2,1), box-shadow .45s ease, border-color .45s ease;
+  transition: box-shadow .25s ease, border-color .25s ease;
 }
 .liquid-glass-theme .glass-section:nth-child(even) { border-radius: 2.1rem 1.4rem 2rem 1.55rem; }
 .liquid-glass-theme .glass-section:hover {
   border-color: rgba(255,255,255,.94);
   box-shadow: 0 28px 70px rgba(91,63,45,.14), inset 0 1px 0 #fff;
-  transform: translateY(-4px);
+  transform: none;
 }
 .liquid-glass-theme .glass-section > h1 {
   display: flex;
@@ -319,7 +309,6 @@ body.liquid-glass-theme {
 .liquid-glass-theme .glass-section em { color: #8a6752; }
 
 .liquid-glass-theme .paper-box {
-  --pointer-x: 50%; --pointer-y: 20%;
   position: relative;
   display: grid;
   grid-template-columns: minmax(175px, 34%) minmax(0, 1fr);
@@ -329,9 +318,7 @@ body.liquid-glass-theme {
   padding: .82rem;
   border: 1px solid rgba(255,255,255,.63);
   border-radius: 1.25rem;
-  background:
-    radial-gradient(280px circle at var(--pointer-x) var(--pointer-y), rgba(255,255,255,.6), transparent 50%),
-    rgba(255,255,255,.29);
+  background: linear-gradient(145deg, rgba(255,255,255,.58), rgba(255,251,246,.34));
   box-shadow: 0 10px 30px rgba(88,60,42,.07), inset 0 1px 0 rgba(255,255,255,.7);
   transition: transform .38s cubic-bezier(.2,.8,.2,1), box-shadow .38s ease, background .38s ease;
   &:hover { transform: translateY(-4px) scale(1.006); background-color: rgba(255,255,255,.46); box-shadow: 0 20px 42px rgba(88,60,42,.12); }
@@ -389,8 +376,6 @@ body.liquid-glass-theme {
   border-radius: .55rem;
   background: rgba(111,78,58,.78);
   box-shadow: 0 8px 18px rgba(57,37,25,.2);
-  -webkit-backdrop-filter: blur(9px);
-  backdrop-filter: blur(9px);
   font-size: .67rem;
   font-weight: 700;
   letter-spacing: .04em;
@@ -400,23 +385,6 @@ body.liquid-glass-theme {
 .liquid-glass-theme .page__content p > a > img { border-radius: .35rem; filter: saturate(.72) sepia(.08); transition: transform .25s ease, filter .25s ease; }
 .liquid-glass-theme .page__content p > a:hover > img { box-shadow: none; filter: saturate(1); transform: translateY(-2px); }
 .liquid-glass-theme .page__content .anchor { scroll-margin-top: 7rem; }
-
-.reveal-on-scroll {
-  opacity: 0;
-  transform: translateY(28px) scale(.985);
-  filter: none;
-}
-.reveal-on-scroll.is-visible {
-  opacity: 1;
-  transform: translateY(0) scale(1);
-  filter: none;
-  transition: opacity .55s ease var(--reveal-delay,0ms), transform .6s cubic-bezier(.18,.78,.2,1) var(--reveal-delay,0ms), box-shadow .4s ease;
-}
-
-@keyframes liquid-drift-one { to { transform: translate3d(6rem,3rem,0) rotate(18deg) scale(1.08); border-radius: 58% 42% 40% 60% / 52% 58% 42% 48%; } }
-@keyframes liquid-drift-two { to { transform: translate3d(-5rem,4rem,0) rotate(-14deg) scale(.94); border-radius: 39% 61% 55% 45% / 60% 40% 60% 40%; } }
-@keyframes liquid-drift-three { to { transform: translate3d(4rem,-3rem,0) rotate(12deg) scale(1.1); border-radius: 62% 38% 54% 46% / 44% 60% 40% 56%; } }
-@keyframes grain-shift { 0% { transform: translate3d(-2%,1%,0); } 50% { transform: translate3d(1%,-2%,0); } 100% { transform: translate3d(2%,2%,0); } }
 
 @media (max-width: 1080px) {
   .liquid-glass-theme .greedy-nav .visible-links a { padding-left: .5rem; padding-right: .5rem; font-size: .78rem; }
@@ -486,6 +454,5 @@ body.liquid-glass-theme {
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   .ambient-orb, .ambient-grain { animation: none !important; }
-  .reveal-on-scroll { opacity: 1; transform: none; filter: none; }
   *, *:before, *:after { transition-duration: .01ms !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
 }
