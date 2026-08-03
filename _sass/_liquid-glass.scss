@@ -288,15 +288,15 @@ body.liquid-glass-theme {
 }
 .liquid-glass-theme .glass-section > ul > li {
   position: relative;
-  margin: .3rem 0;
-  padding: .48rem .75rem .48rem 1.5rem;
+  margin: .16rem 0;
+  padding: .3rem .75rem .3rem 1.5rem;
   border: 1px solid rgba(255,255,255,.48);
   border-radius: 1rem;
   background: rgba(255,255,255,.25);
   box-shadow: inset 0 1px 0 rgba(255,255,255,.52);
   transition: transform .28s ease, background .28s ease, box-shadow .28s ease;
   &:before {
-    position: absolute; top: .88rem; left: .62rem;
+    position: absolute; top: .7rem; left: .62rem;
     width: 6px; height: 6px;
     content: "";
     border-radius: 50%;
@@ -305,12 +305,6 @@ body.liquid-glass-theme {
   }
   &:hover { transform: translateX(4px); background: rgba(255,255,255,.48); box-shadow: 0 10px 24px rgba(85,57,39,.07); }
 }
-.liquid-glass-theme .glass-section[aria-labelledby="-news"] > ul > li {
-  margin: .16rem 0;
-  padding-top: .3rem;
-  padding-bottom: .3rem;
-}
-.liquid-glass-theme .glass-section[aria-labelledby="-news"] > ul > li:before { top: .7rem; }
 .liquid-glass-theme .glass-section strong { color: #3f3027; }
 .liquid-glass-theme .glass-section em { color: #8a6752; }
 
