@@ -30,9 +30,17 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 <span style="color: #A9A9A9;">***Life is a journey, keep calm and carry on. :)***</span>
 
 # 🔥 News
-- *2026.XX*: 🎉 Our paper **"Your Paper Title"** has been accepted by **Conference or Journal Name 2026**. [[Paper](https://example.com)] [[Code](https://github.com/your-account/your-project)]
-- *2026.XX*: 🎤 I gave a talk titled **"Your Talk Title"** at **Event or University Name**. [[Slides](https://example.com)]
-- *2025.XX*: 🏆 I received the **Name of Scholarship or Award**.
+
+- *2026.02.28*: 🎉 Our paper **"Radiant: Large-Scale 3D Gaussian Rendering Based on a Hierarchical Framework"** has been accepted by **IEEE Transactions on Services Computing (TSC)**.
+- *2026.02.21*: 🎉 Our paper **"OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer"** has been accepted by **CVPR 2026** and selected as a **Highlight**.
+- *2025.05.23*: 🎉 Our paper **"Sylva: Tailoring Personalized Adversarial Defense in Pre-Trained Models via Collaborative Fine-Tuning"** has been accepted by **ACM CCS 2026**.
+- *2025.05.19*: 🎉 Our paper **"Robin: An Efficient Hierarchical Federated Learning Framework via a Learning-Based Synchronization Scheme"** has been accepted by **IEEE Transactions on Cloud Computing (TCC)**.
+- *2024.09.01*: 🎓 I started my **Ph.D. studies** at **Sun Yat-sen University**.
+- *2024.02.06*: 💼 I started my internship at **Kuaishou Technology**.
+- *2023.12.01*: 🎉 Our paper **"Tomtit: Hierarchical Federated Fine-Tuning of Giant Models Based on Autonomous Synchronization"** has been accepted by **IEEE INFOCOM 2024**.
+- *2023.04.10*: 🎉 Our paper **"Hwamei: A Learning-Based Aggregation Framework for Hierarchical Federated Learning"** has been accepted by **IEEE ICDCS 2023**.
+- *2021.09.01*: 🎓 I started my **Master's studies** at **Beijing Institute of Technology**.
+
 
 # 📝 Publications 
 ## 📜 Articles(* denotes equal contribution)
