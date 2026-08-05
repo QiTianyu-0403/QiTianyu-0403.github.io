@@ -31,6 +31,10 @@ body.liquid-glass-theme {
   background-attachment: scroll;
 }
 
+body.liquid-glass-theme a:focus {
+  outline: 0;
+}
+
 .ambient-canvas {
   position: fixed;
   inset: 0;
