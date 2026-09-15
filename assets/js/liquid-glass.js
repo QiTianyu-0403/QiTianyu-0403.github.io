@@ -46,6 +46,39 @@
     headings.forEach(function (heading) { observer.observe(heading); });
   }
 
+  function setupThemeToggle() {
+    var toggle = document.querySelector(".theme-toggle");
+    if (!toggle) return;
+    var icon = toggle.querySelector("i");
+    var isDark = false;
+
+    try {
+      isDark = window.localStorage.getItem("academic-theme") === "dark";
+    } catch (error) {
+      isDark = false;
+    }
+
+    function applyTheme(dark) {
+      isDark = dark;
+      document.documentElement.classList.toggle("dark-mode", dark);
+      document.body.classList.toggle("dark-mode", dark);
+      if (icon) {
+        icon.classList.toggle("fa-moon", !dark);
+        icon.classList.toggle("fa-sun", dark);
+      }
+      toggle.setAttribute("aria-label", dark ? "Switch to light mode" : "Switch to dark mode");
+      toggle.setAttribute("title", dark ? "Switch to light mode" : "Switch to dark mode");
+      try {
+        window.localStorage.setItem("academic-theme", dark ? "dark" : "light");
+      } catch (error) {
+        // Continue without persistence when storage is unavailable.
+      }
+    }
+
+    applyTheme(isDark);
+    toggle.addEventListener("click", function () { applyTheme(!isDark); });
+  }
+
   function restoreHashPosition(initialHash) {
     if (!initialHash) return;
     var target = document.getElementById(initialHash.slice(1));
@@ -71,6 +104,7 @@
       window.scrollTo(0, 0);
     }
     document.body.classList.add("liquid-glass-theme");
+    setupThemeToggle();
     var content = document.querySelector(".page__content");
     if (content) groupSections(content);
     var profile = document.querySelector(".profile_box");
