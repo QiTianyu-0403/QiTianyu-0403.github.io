@@ -84,6 +84,7 @@ body.liquid-glass-theme a:focus {
 .liquid-glass-theme .masthead {
   top: .8rem;
   z-index: 50;
+  animation: none;
   width: calc(100% - 2rem);
   max-width: 1220px;
   margin: 0 auto;
