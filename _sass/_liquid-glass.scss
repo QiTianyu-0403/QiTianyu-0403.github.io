@@ -1,19 +1,19 @@
-/* Warm liquid-glass theme */
+/* Academic liquid-glass theme */
 :root {
-  --warm-ink: #3d3028;
-  --warm-muted: #74645a;
-  --warm-accent: #98745e;
-  --warm-accent-deep: #765442;
-  --warm-line: rgba(127, 91, 68, 0.16);
-  --glass-fill: rgba(255, 251, 246, 0.56);
-  --glass-edge: rgba(255, 255, 255, 0.76);
-  --glass-shadow: 0 22px 60px rgba(91, 63, 45, 0.10);
+  --warm-ink: #111827;
+  --warm-muted: #4b5563;
+  --warm-accent: #1f4e79;
+  --warm-accent-deep: #123b63;
+  --warm-line: rgba(31, 78, 121, 0.18);
+  --glass-fill: rgba(255, 255, 255, 0.72);
+  --glass-edge: rgba(31, 78, 121, 0.14);
+  --glass-shadow: 0 22px 60px rgba(15, 23, 42, 0.10);
 }
 
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 7rem;
-  background: #f5eee6;
+  background: #f8fafc;
 }
 
 body.liquid-glass-theme {
@@ -26,8 +26,8 @@ body.liquid-glass-theme {
   line-height: 1.72;
   background:
     radial-gradient(circle at 12% 8%, rgba(255,255,255,.94), transparent 26rem),
-    radial-gradient(circle at 88% 18%, rgba(218,195,176,.42), transparent 32rem),
-    linear-gradient(145deg, #faf6f1 0%, #eee1d5 48%, #f7f0e9 100%);
+    radial-gradient(circle at 88% 18%, rgba(207, 220, 235, .42), transparent 32rem),
+    linear-gradient(145deg, #ffffff 0%, #f7f9fc 48%, #ffffff 100%);
   background-attachment: scroll;
 }
 
@@ -60,17 +60,17 @@ body.liquid-glass-theme a:focus {
 
 .ambient-orb--one {
   top: -10rem; left: -8rem; width: 32rem; height: 32rem;
-  background: radial-gradient(circle at 34% 30%, rgba(255,255,255,.86), rgba(198,164,139,.24) 48%, transparent 70%);
+  background: radial-gradient(circle at 34% 30%, rgba(255,255,255,.86), rgba(164, 190, 216, .24) 48%, transparent 70%);
   animation: none;
 }
 .ambient-orb--two {
   top: 28%; right: -12rem; width: 38rem; height: 44rem;
-  background: radial-gradient(circle at 45% 40%, rgba(232,215,201,.65), rgba(174,136,109,.18) 52%, transparent 72%);
+  background: radial-gradient(circle at 45% 40%, rgba(220, 231, 242, .65), rgba(120, 157, 191, .18) 52%, transparent 72%);
   animation: none;
 }
 .ambient-orb--three {
   bottom: -14rem; left: 24%; width: 34rem; height: 30rem;
-  background: radial-gradient(circle at 45% 38%, rgba(255,247,238,.72), rgba(191,154,127,.18) 54%, transparent 73%);
+  background: radial-gradient(circle at 45% 38%, rgba(245, 249, 253, .72), rgba(139, 173, 204, .18) 54%, transparent 73%);
   animation: none;
 }
 .ambient-grain {
@@ -89,8 +89,8 @@ body.liquid-glass-theme a:focus {
   margin: 0 auto;
   border: 1px solid rgba(255,255,255,.74);
   border-radius: 1.35rem;
-  background: rgba(250,244,237,.68);
-  box-shadow: 0 12px 38px rgba(93,65,47,.09), inset 0 1px 0 rgba(255,255,255,.82);
+  background: rgba(255,255,255,.82);
+  box-shadow: 0 12px 38px rgba(15,23,42,.09), inset 0 1px 0 rgba(255,255,255,.92);
 }
 .liquid-glass-theme .masthead__inner-wrap { max-width: none; padding: .48rem .8rem; }
 .liquid-glass-theme .greedy-nav { min-width: 0; background: transparent; }
@@ -117,14 +117,14 @@ body.liquid-glass-theme a:focus {
   top: .12rem; right: .12rem; height: calc(100% - .24rem);
   border-radius: .8rem;
   color: #fff;
-  background: linear-gradient(145deg, #a47e65, #80604c);
-  box-shadow: 0 6px 16px rgba(116,80,57,.2);
+  background: linear-gradient(145deg, #285d8f, #123b63);
+  box-shadow: 0 6px 16px rgba(18,59,99,.2);
 }
 .liquid-glass-theme .greedy-nav .hidden-links {
   overflow: hidden;
   border: 1px solid rgba(255,255,255,.76);
   border-radius: 1rem;
-  background: rgba(248,240,233,.88);
+  background: rgba(248,251,255,.94);
   box-shadow: var(--glass-shadow);
   &:before, &:after { display: none; }
 }
@@ -149,8 +149,8 @@ body.liquid-glass-theme a:focus {
   position: relative;
   overflow: hidden;
   border: 1px solid var(--glass-edge);
-  background: linear-gradient(145deg, rgba(255,255,255,.72), rgba(255,251,246,.58));
-  box-shadow: var(--glass-shadow), inset 0 1px 0 rgba(255,255,255,.88), inset 0 -1px 0 rgba(138,97,70,.05);
+  background: linear-gradient(145deg, rgba(255,255,255,.82), rgba(248,251,255,.68));
+  box-shadow: var(--glass-shadow), inset 0 1px 0 rgba(255,255,255,.92), inset 0 -1px 0 rgba(31,78,121,.05);
 }
 .liquid-glass-theme .profile_box:before,
 .liquid-glass-theme .glass-section:before {
@@ -176,7 +176,7 @@ body.liquid-glass-theme a:focus {
   border: 1px solid rgba(255,255,255,.92);
   border-radius: 50%;
   object-fit: cover;
-  box-shadow: 0 16px 34px rgba(85,58,41,.18), 0 0 0 7px rgba(255,255,255,.24);
+  box-shadow: 0 16px 34px rgba(15,23,42,.18), 0 0 0 7px rgba(255,255,255,.3);
   transition: transform .55s cubic-bezier(.2,.8,.2,1);
 }
 .liquid-glass-theme .profile_box:hover .author__avatar img.author__avatar {
@@ -218,7 +218,7 @@ body.liquid-glass-theme a:focus {
   line-height: 1.45;
   white-space: normal;
   transition: transform .25s ease, background .25s ease, box-shadow .25s ease;
-  &:hover { background: rgba(255,255,255,.58); box-shadow: 0 8px 20px rgba(91,62,43,.08); transform: translateX(3px); }
+  &:hover { background: rgba(255,255,255,.7); box-shadow: 0 8px 20px rgba(15,23,42,.08); transform: translateX(3px); }
   &:first-child { padding: 0 0 .7rem; border: 0; background: transparent; text-align: center; }
 }
 .liquid-glass-theme .author__urls a { display: block; margin: 0; padding: 0; color: var(--warm-ink); font-size: inherit; text-decoration: none; }
@@ -239,7 +239,7 @@ body.liquid-glass-theme a:focus {
 .liquid-glass-theme .glass-section:nth-child(even) { border-radius: 2.1rem 1.4rem 2rem 1.55rem; }
 .liquid-glass-theme .glass-section:hover {
   border-color: rgba(255,255,255,.94);
-  box-shadow: 0 28px 70px rgba(91,63,45,.14), inset 0 1px 0 #fff;
+  box-shadow: 0 28px 70px rgba(15,23,42,.14), inset 0 1px 0 #fff;
   transform: none;
 }
 .liquid-glass-theme .glass-section > h1 {
@@ -272,18 +272,18 @@ body.liquid-glass-theme a:focus {
   font-size: 1.15rem;
   font-weight: 600;
 }
-.liquid-glass-theme .glass-section p { margin: 0 0 .85rem; color: #51443b; }
+.liquid-glass-theme .glass-section p { margin: 0 0 .85rem; color: #1f2937; }
 .liquid-glass-theme .glass-section a {
   position: relative;
-  color: #785844;
+  color: #1f4e79;
   font-weight: 550;
   text-decoration: none;
-  background-image: linear-gradient(rgba(152,116,94,.32), rgba(152,116,94,.32));
+  background-image: linear-gradient(rgba(31,78,121,.28), rgba(31,78,121,.28));
   background-position: 0 100%;
   background-repeat: no-repeat;
   background-size: 100% 1px;
   transition: color .2s ease, background-size .25s ease;
-  &:hover { color: #4f3424; background-size: 100% 35%; }
+  &:hover { color: #123b63; background-size: 100% 35%; }
 }
 .liquid-glass-theme .glass-section > ul {
   margin: .3rem 0 0;
@@ -305,12 +305,12 @@ body.liquid-glass-theme a:focus {
     content: "";
     border-radius: 50%;
     background: var(--warm-accent);
-    box-shadow: 0 0 0 4px rgba(152,116,94,.11);
+    box-shadow: 0 0 0 4px rgba(31,78,121,.12);
   }
-  &:hover { transform: translateX(4px); background: rgba(255,255,255,.48); box-shadow: 0 10px 24px rgba(85,57,39,.07); }
+  &:hover { transform: translateX(4px); background: rgba(255,255,255,.58); box-shadow: 0 10px 24px rgba(15,23,42,.07); }
 }
-.liquid-glass-theme .glass-section strong { color: #3f3027; }
-.liquid-glass-theme .glass-section em { color: #8a6752; }
+.liquid-glass-theme .glass-section strong { color: #111827; }
+.liquid-glass-theme .glass-section em { color: #315d86; }
 
 .liquid-glass-theme .paper-box {
   position: relative;
@@ -322,10 +322,10 @@ body.liquid-glass-theme a:focus {
   padding: .65rem;
   border: 1px solid rgba(255,255,255,.63);
   border-radius: 1.25rem;
-  background: linear-gradient(145deg, rgba(255,255,255,.58), rgba(255,251,246,.34));
-  box-shadow: 0 10px 30px rgba(88,60,42,.07), inset 0 1px 0 rgba(255,255,255,.7);
+  background: linear-gradient(145deg, rgba(255,255,255,.68), rgba(248,251,255,.42));
+  box-shadow: 0 10px 30px rgba(15,23,42,.07), inset 0 1px 0 rgba(255,255,255,.78);
   transition: transform .38s cubic-bezier(.2,.8,.2,1), box-shadow .38s ease, background .38s ease;
-  &:hover { transform: translateY(-4px) scale(1.006); background-color: rgba(255,255,255,.46); box-shadow: 0 20px 42px rgba(88,60,42,.12); }
+  &:hover { transform: translateY(-4px) scale(1.006); background-color: rgba(255,255,255,.58); box-shadow: 0 20px 42px rgba(15,23,42,.12); }
 }
 .liquid-glass-theme .paper-box-image {
   position: relative;
@@ -378,8 +378,8 @@ body.liquid-glass-theme a:focus {
   color: #fff;
   border: 1px solid rgba(255,255,255,.42);
   border-radius: .55rem;
-  background: rgba(111,78,58,.78);
-  box-shadow: 0 8px 18px rgba(57,37,25,.2);
+  background: rgba(31,78,121,.9);
+  box-shadow: 0 8px 18px rgba(15,23,42,.2);
   font-size: .67rem;
   font-weight: 700;
   letter-spacing: .04em;
@@ -407,7 +407,7 @@ body.liquid-glass-theme a:focus {
     backdrop-filter: none;
   }
   .liquid-glass-theme .profile_box,
-  .liquid-glass-theme .glass-section { background: linear-gradient(145deg, rgba(255,255,255,.72), rgba(255,251,246,.76)); }
+  .liquid-glass-theme .glass-section { background: linear-gradient(145deg, rgba(255,255,255,.82), rgba(248,251,255,.82)); }
 }
 @media (max-width: 924px) {
   .liquid-glass-theme #main { grid-template-columns: 1fr; margin-top: 1.5rem; }
