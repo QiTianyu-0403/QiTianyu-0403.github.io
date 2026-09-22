@@ -343,6 +343,30 @@ body.liquid-glass-theme a:focus {
   }
   &:hover { transform: translateX(4px); background: rgba(255,255,255,.58); box-shadow: 0 10px 24px rgba(15,23,42,.07); }
 }
+.liquid-glass-theme .glass-section > ul.links-people > li {
+  display: grid;
+  grid-template-columns: 6.5rem minmax(0, 1fr);
+  gap: .8rem;
+  align-items: center;
+  min-height: 3.2rem;
+  padding: .35rem .75rem;
+  &:before { display: none; }
+}
+.liquid-glass-theme .links-logo {
+  display: flex;
+  width: 6.5rem;
+  height: 2.35rem;
+  align-items: center;
+}
+.liquid-glass-theme .links-logo img {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+.liquid-glass-theme .links-affiliation { color: var(--warm-muted); font-size: .82rem; }
 .liquid-glass-theme .glass-section strong { color: #111827; }
 .liquid-glass-theme .glass-section em { color: #315d86; }
 

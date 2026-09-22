@@ -208,15 +208,14 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 - *2018.05 - 2021.12*, **Data-driven cloud data center intelligent management technology and platform. (Participate)** Supported by the [National Key Research and Development Program of China](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E7%A0%94%E5%8F%91%E8%AE%A1%E5%88%92). Responsible for the optimization of the task graph classification algorithm in the scheduling algorithm.
 
 # 🎖 Honors and Awards
-- *2026.02* Qi'anxin Scholarship, 2025 (Top 10%)
-- *2024.06* Outstanding graduates of Beijing Institute of Technology, 2024 (Top 10%)
-- *2023.11* Bank of China Scholarship for Basic Disciplines, 2023. (Top 10%)
-- *2023.08* Third Prize of China Computer Game Competition, 2023.
-- *2023.06* Third Prize in the National Mathorcup Mathematical Modeling Competition, 2023.
-- *2022.10* Excellent student of Beijing Institute of Technology, 2022.
-- *2022.10* First prize of China Computer Game Competition,2022. (Top 1%)
-- *2021.06* Outstanding graduates of China University of Geosciences, Wuhan. (Top 1%)
-- *2020.10* Principle's scholarship of China University of Geosciences, Wuhan. (Top 3%)
+- *2026.09* Sun Yat-sen University Lin Bin Liu Xiangdong Scholarship, 2025 (Top 1%).
+- *2026.05* Outstanding Papers on Cyberspace Security in Guangdong Province, 2025.
+- *2026.02* Qi'anxin Scholarship, 2025 (Top 10%).
+- *2024.06* Outstanding Graduate of Beijing Institute of Technology, 2024 (Top 10%).
+- *2023.11* Bank of China Scholarship for Basic Disciplines, 2023 (Top 10%).
+- *2022.10* First Prize in the China Computer Game Competition, 2022 (Top 1%).
+- *2021.06* Outstanding Graduate of China University of Geosciences, Wuhan, 2021 (Top 1%).
+- *2020.10* Principal's Scholarship of China University of Geosciences, Wuhan, 2020 (Top 3%).
 
 # 📖 Educations
 - *2024.09 - Now*, Doctor in Cyber Science and Technology major, Ph.D, Sun Yat-sen University.
@@ -243,12 +242,17 @@ Reviewer for Journals:
 - High-Confidence Computing Journal.
 
 # 🔗 Links
-## XNS Lab Mates:
+## Security Lab:
 
-- [Haosong Peng](https://livioni.github.io/)(HKUST)
-- [Ruifeng Ma](https://ac.ppeak.site/)(BIT)
-- [Wei Feng](https://github.com/Couteaux123)(BIT)
+<ul class="links-people">
+  <li><span class="links-logo"><img src="images/logos/sysu.png" alt=""></span><span><a href="https://scholar.google.com.hk/citations?user=ABfI_gwAAAAJ&amp;hl=zh-CN&amp;oi=ao">Runze Tan</a> <span class="links-affiliation">(SYSU)</span></span></li>
+  <li><span class="links-logo"><img src="images/logos/sysu.png" alt=""></span><span><a href="https://scholar.google.com.hk/citations?user=AuTdp_YAAAAJ&amp;hl=zh-CN&amp;oi=ao">Jican Zhang</a> <span class="links-affiliation">(SYSU)</span></span></li>
+</ul>
 
 ## Co-authors:
-- [Hao Li](https://lifuguan.github.io/)(NWPU)
-- [Yalun Dai](https://github.com/dialogueeeeee)(NTU)
+
+<ul class="links-people">
+  <li><span class="links-logo"><img src="images/logos/hkust.png" alt=""></span><span><a href="https://livioni.github.io/">Haosong Peng</a> <span class="links-affiliation">(HKUST)</span></span></li>
+  <li><span class="links-logo"><img src="images/logos/ntu.png" alt=""></span><span><a href="https://lifuguan.github.io/">Hao Li</a> <span class="links-affiliation">(NTU)</span></span></li>
+  <li><span class="links-logo"><img src="images/logos/ntu.png" alt=""></span><span><a href="https://github.com/dialogueeeeee">Yalun Dai</a> <span class="links-affiliation">(NTU)</span></span></li>
+</ul>
