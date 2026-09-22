@@ -13,7 +13,7 @@
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 7rem;
-  background: #f8fafc;
+  background: #e6edf4;
 }
 
 body.liquid-glass-theme {
@@ -26,8 +26,7 @@ body.liquid-glass-theme {
   line-height: 1.72;
   background:
     radial-gradient(circle at 12% 8%, rgba(255,255,255,.94), transparent 26rem),
-    radial-gradient(circle at 88% 18%, rgba(207, 220, 235, .42), transparent 32rem),
-    linear-gradient(145deg, #ffffff 0%, #f7f9fc 48%, #ffffff 100%);
+    linear-gradient(180deg, #ffffff 0%, #f5f8fb 45%, #e6edf4 100%);
   background-attachment: scroll;
 }
 
@@ -70,7 +69,7 @@ body.liquid-glass-theme a:focus {
 }
 .ambient-orb--three {
   bottom: -14rem; left: 24%; width: 34rem; height: 30rem;
-  background: radial-gradient(circle at 45% 38%, rgba(245, 249, 253, .72), rgba(139, 173, 204, .18) 54%, transparent 73%);
+  background: radial-gradient(circle at 45% 38%, rgba(171, 193, 214, .24), rgba(111, 145, 177, .14) 54%, transparent 73%);
   animation: none;
 }
 .ambient-grain {
@@ -243,9 +242,20 @@ body.liquid-glass-theme a:focus {
   white-space: normal;
   transition: transform .25s ease, background .25s ease, box-shadow .25s ease;
   &:hover { background: rgba(255,255,255,.7); box-shadow: 0 8px 20px rgba(15,23,42,.08); transform: translateX(3px); }
-  &:first-child { padding: 0 0 .7rem; border: 0; background: transparent; text-align: center; }
+  &:not(.author__description) { color: var(--warm-ink); }
+  &.author__description {
+    display: flex;
+    min-height: 4.5rem;
+    padding: .65rem 0;
+    align-items: center;
+    justify-content: center;
+    border: 0;
+    background: transparent;
+    text-align: center;
+  }
+  &.author__description > div { margin: 0; white-space: normal; }
 }
-.liquid-glass-theme .author__urls a { display: block; margin: 0; padding: 0; color: var(--warm-ink); font-size: inherit; text-decoration: none; }
+.liquid-glass-theme .author__urls a { display: block; margin: 0; padding: 0; color: inherit; font: inherit; text-decoration: none; }
 .liquid-glass-theme .author__urls i { color: var(--warm-accent); }
 .liquid-glass-theme .author__urls_sm { display: none; }
 
@@ -439,7 +449,7 @@ body.liquid-glass-theme a:focus {
   .liquid-glass-theme .author__avatar img.author__avatar { width: 104px; height: 104px; margin: 0; }
   .liquid-glass-theme .author__urls { display: grid !important; grid-template-columns: 1fr 1fr; gap: .35rem; }
   .liquid-glass-theme .author__urls li { margin: 0; }
-  .liquid-glass-theme .author__urls li:first-child { grid-column: 1 / -1; padding: 0; text-align: left; }
+  .liquid-glass-theme .author__urls li.author__description { grid-column: 1 / -1; }
 }
 @media (max-width: 680px) {
   body.liquid-glass-theme { font-size: 14px; }
@@ -487,7 +497,7 @@ body.liquid-glass-theme a:focus {
 }
 
 /* Dark academic palette, toggled without changing the page structure. */
-html.dark-mode { background: #0b1220; }
+html.dark-mode { background: #080f1a; }
 body.liquid-glass-theme.dark-mode {
   --warm-ink: #e8eef6;
   --warm-muted: #aab8c7;
@@ -500,8 +510,7 @@ body.liquid-glass-theme.dark-mode {
   color: var(--warm-ink);
   background:
     radial-gradient(circle at 12% 8%, rgba(66, 99, 132, .24), transparent 26rem),
-    radial-gradient(circle at 88% 18%, rgba(45, 78, 113, .3), transparent 32rem),
-    linear-gradient(145deg, #0b1220 0%, #111d2d 48%, #0b1220 100%);
+    linear-gradient(180deg, #111d2d 0%, #0d1725 48%, #080f1a 100%);
 }
 body.liquid-glass-theme.dark-mode .masthead {
   border-color: rgba(133,178,220,.24);
