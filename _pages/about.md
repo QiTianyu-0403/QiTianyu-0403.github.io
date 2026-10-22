@@ -31,6 +31,7 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 
 # 🔥 News
 
+- *2026.10.22*: 🎉 Our paper **"Lorica: A Synergistic Fine-Tuning Framework for Advancing Personalized Adversarial Robustness"** has been accepted by **IEEE Transactions on Mobile Computing (TMC)**.
 - *2026.02.28*: 🎉 Our paper **"Radiant: Large-Scale 3D Gaussian Rendering Based on a Hierarchical Framework"** has been accepted by **IEEE Transactions on Services Computing (TSC)**.
 - *2026.02.21*: 🎉 Our paper **"OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer"** has been accepted by **CVPR 2026** and selected as a **Highlight**.
 - *2025.05.23*: 🎉 Our paper **"Sylva: Tailoring Personalized Adversarial Defense in Pre-Trained Models via Collaborative Fine-Tuning"** has been accepted by **ACM CCS 2026**.
@@ -44,6 +45,24 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 
 # 📝 Publications 
 ## 📜 Articles(* denotes equal contribution)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/fig.008.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Lorica: A Synergistic Fine-Tuning Framework for Advancing Personalized Adversarial Robustness](https://arxiv.org/abs/2506.05402)**
+
+---
+
+2026 IEEE Transactions on Mobile Computing
+
+|JCR-Q1|2026-10|
+
+---
+
+**Tianyu Qi**, Lei Xue, Yufeng Zhan, Xiaobo Ma
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/fig.009.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -77,22 +96,6 @@ Haosong Peng, Hao Li, Yalun Dai, Yushi Lan, Yihang Luo, **Tianyu Qi**, Zhengshen
 ---
 
 Haosong Peng\*, **Tianyu Qi\***, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fig.008.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Lorica: A Synergistic Fine-Tuning Framework for Advancing Personalized Adversarial Robustness](https://arxiv.org/abs/2506.05402)**
-
----
-
-Submitted to IEEE Transactions on Mobile Computing
-
-|Arxiv|Coming Soon|
-
-**Tianyu Qi**, Lei Xue, Yufeng Zhan, Xiaobo Ma
 </div>
 </div>
 
