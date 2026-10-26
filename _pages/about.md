@@ -46,6 +46,24 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 # 📝 Publications 
 ## 📜 Articles(* denotes equal contribution)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fig.010.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation](https://arxiv.org/abs/2608.05369)**
+
+---
+
+Arxiv
+
+|2026-08|<a href="https://yyyyu120.github.io/W2-VLA/" target="_blank"><b>Demo</b></a>|
+
+---
+
+Yuhao Pan, Haosong Peng, Zhengshen Zhang, Zhengyang Yan, Yalun Dai, Fushuo Huo, Chujie Wang, **Tianyu Qi**, Xiucheng Wang, Nan Cheng, Wenchao Xu
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/fig.008.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -236,8 +254,9 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 - *2021.06 - 2021.08*, [Taiji Computer Corporation Limited](https://www.taiji.com.cn/) <img src='./images/TAIJI.png' style='width: 5em;'> , IoT technology Interns. *Responsible for the deployment of the back-end environment of the IoT platform and some product prototype design*
 
 ## Academic Service
-Reviewer for Journals:
+Reviewer for Conferences and Journals:
 
+- The Web Conference (WWW) 2027.
 - IEEE Transactions on Dependable and Secure Computing.
 - IEEE Transactions on Wireless Communications.
 - IEEE Internet of Things Journal.
