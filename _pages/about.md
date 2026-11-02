@@ -32,6 +32,7 @@ I am active on [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&l
 # 🔥 News
 
 - *2026.10.22*: 🎉 Our paper **"Lorica: A Synergistic Fine-Tuning Framework for Advancing Personalized Adversarial Robustness"** has been accepted by **IEEE Transactions on Mobile Computing (TMC)**.
+- *2026.10.21*: 🌟 I was selected for the **Young Elite Scientists Sponsorship Program by the China Association for Science and Technology (CAST)**.
 - *2026.02.28*: 🎉 Our paper **"Radiant: Large-Scale 3D Gaussian Rendering Based on a Hierarchical Framework"** has been accepted by **IEEE Transactions on Services Computing (TSC)**.
 - *2026.02.21*: 🎉 Our paper **"OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer"** has been accepted by **CVPR 2026** and selected as a **Highlight**.
 - *2025.05.23*: 🎉 Our paper **"Sylva: Tailoring Personalized Adversarial Defense in Pre-Trained Models via Collaborative Fine-Tuning"** has been accepted by **ACM CCS 2026**.
@@ -221,6 +222,7 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 - [An edge device image classification method, device, storage medium, and product](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)(filed), Yufeng Zhan, **Tianyu Qi**, Weiqing Liu, Chuge Wu, Dihua Zhai, Yuan Zhang, Yuanqing Xia
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+{% comment %}
 # 🏷 Projects
 - *2024.12 - 2026.12*, **Smart Agriculture Management via Computing Continuum: Key Technologies and Applications. (Participate)** Supported by the [National Key Research and Development Program of China](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E7%A0%94%E5%8F%91%E8%AE%A1%E5%88%92). Responsible for adversarial defense design using pre-trained models to secure smart agriculture systems.
 - *2022.01 - 2024.12*, **Research on key methods of incentive mechanism for federated learning sustainable training. (Participate)** Supported by the [Young Scientists Fund of the National Natural Science Foundation of China](https://www.nsfc.gov.cn/publish/portal0/xmzn/2020/05/). Responsible for the optimization research of federated learning algorithm based on reinforcement learning.
@@ -228,7 +230,10 @@ Kaihui Chen, Hao Yi, Qingyang Li, **Tianyu Qi**, Yulan Hu, Fuzheng Zhang
 - *2021.03 - 2022.03*, **Cloud-side collaborative software design. (Participate)** Supported by the [China Unicom](http://www.chinaunicom.com.cn/index.html). Responsible for researching on task scheduling algorithm in Cloud-Edge collaborative environment.
 - *2018.05 - 2021.12*, **Data-driven cloud data center intelligent management technology and platform. (Participate)** Supported by the [National Key Research and Development Program of China](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E7%A0%94%E5%8F%91%E8%AE%A1%E5%88%92). Responsible for the optimization of the task graph classification algorithm in the scheduling algorithm.
 
+{% endcomment %}
+
 # 🎖 Honors and Awards
+- *2026.10* Young Elite Scientists Sponsorship Program by the China Association for Science and Technology (CAST) (Top 1%).
 - *2026.09* Sun Yat-sen University Lin Bin Liu Xiangdong Scholarship, 2025 (Top 1%).
 - *2026.05* Outstanding Papers on Cyberspace Security in Guangdong Province, 2025.
 - *2026.02* Qi'anxin Scholarship, 2025 (Top 10%).
